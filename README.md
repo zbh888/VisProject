@@ -2,6 +2,8 @@
 
 The Project ranked **68 countries** based on their contribution to **Computer Security and Cryptography**.
 
+![Map](result.png "Map")
+
 ## Methodology
 
 ### 1. Data Collection
@@ -97,7 +99,3 @@ The grade distribution now looks like this:
 
 ## How to Run the Code?
 `python3 map.py` 
-
-![Map](result.png "Map")
-
-
