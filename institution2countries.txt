@@ -1,0 +1,4642 @@
+Hewlett-Packard Laboratories >>> {'United Kingdom'}
+
+Lexicle Limited >>> {'United Kingdom'}
+
+Amazon Research >>> {'United Kingdom'}
+
+Open University >>> {'United Kingdom'}
+
+nChain >>> {'United Kingdom'}
+
+University of Portsmouth >>> {'United Kingdom'}
+
+Robert Gordon University >>> {'United Kingdom'}
+
+University of Birmingham >>> {'United Kingdom'}
+
+University College London >>> {'United Kingdom'}
+
+Abertay University >>> {'United Kingdom'}
+
+University of Luton >>> {'United Kingdom'}
+
+University of York >>> {'United Kingdom'}
+
+Queen's University >>> {'Canada', 'United Kingdom'}
+
+Bournemouth University >>> {'United Kingdom'}
+
+University of Reading >>> {'United Kingdom'}
+
+The Open University >>> {'United Kingdom'}
+
+Social Shaping Research Ltd >>> {'United Kingdom'}
+
+University of the West of England >>> {'United Kingdom'}
+
+Cardiff University >>> {'United Kingdom'}
+
+University of Hertfordshire >>> {'United Kingdom'}
+
+De Monfort University >>> {'United Kingdom'}
+
+Imperial College Imperial >>> {'United Kingdom'}
+
+Birkbeck >>> {'United Kingdom'}
+
+University of Southampton >>> {'United Kingdom'}
+
+University College of London >>> {'United Kingdom'}
+
+University of Glasgow >>> {'United Kingdom'}
+
+City University of London >>> {'United Kingdom'}
+
+University of Manchester >>> {'United Kingdom'}
+
+European Centre for Medium-Range Weather Forecasts >>> {'United Kingdom'}
+
+University of Edinburgh >>> {'United Kingdom'}
+
+Middlesex University London >>> {'United Kingdom'}
+
+Arm Lid. >>> {'United Kingdom'}
+
+University of Strathclyde >>> {'United Kingdom'}
+
+University of Teesside >>> {'United Kingdom'}
+
+University of Liverpool >>> {'United Kingdom'}
+
+University of Huddersfield >>> {'United Kingdom'}
+
+British Telecom >>> {'United Kingdom'}
+
+The Alan Turing Institute >>> {'United Kingdom'}
+
+King's College London >>> {'United Kingdom'}
+
+De Montfort University >>> {'United Kingdom'}
+
+University of Leeds >>> {'United Kingdom'}
+
+Durham University >>> {'United Kingdom'}
+
+University of St Andrews >>> {'United Kingdom'}
+
+Royal Holloway >>> {'United Kingdom'}
+
+Hewlett Packard Enterprise Labs >>> {'United States of America', 'Israel', 'Canada', 'United Kingdom'}
+
+University of Brighton >>> {'United Kingdom'}
+
+University of Sussex >>> {'United Kingdom'}
+
+Oxford University >>> {'United Kingdom'}
+
+Manchester Metropolitan University >>> {'United Kingdom'}
+
+London South Bank University >>> {'United Kingdom'}
+
+Beckett University >>> {'United Kingdom'}
+
+University of Nottingham >>> {'United Kingdom'}
+
+Aston University >>> {'United Kingdom'}
+
+Defence Science and Technology Laboratory >>> {'United Kingdom'}
+
+University of Wales >>> {'United Kingdom'}
+
+The University of Lancaster >>> {'United Kingdom'}
+
+University of Sheffield >>> {'United Kingdom'}
+
+Teesside University >>> {'United Kingdom'}
+
+University of Bristol >>> {'United Kingdom'}
+
+University of Lincoln >>> {'United Kingdom'}
+
+University of Cambridge >>> {'United Kingdom'}
+
+Hull University >>> {'United Kingdom'}
+
+Queen Mary University of London >>> {'United Kingdom'}
+
+University of London >>> {'United Kingdom'}
+
+Cranfield University >>> {'United Kingdom'}
+
+University of Oxford >>> {'United Kingdom'}
+
+Nethermind >>> {'United Kingdom'}
+
+HP Labs >>> {'United States of America', 'United Kingdom'}
+
+Heriot-Watt University >>> {'United Kingdom'}
+
+University of East London >>> {'United Kingdom'}
+
+IBM Research >>> {'Switzerland', 'Israel', 'Brazil', 'United States of America', 'India', 'United Kingdom'}
+
+University of Exeter >>> {'United Kingdom'}
+
+Northumbria University >>> {'United Kingdom'}
+
+Swansea University >>> {'United Kingdom'}
+
+Sheffield University >>> {'United Kingdom'}
+
+University of Essex >>> {'United Kingdom'}
+
+Sophos >>> {'United Kingdom'}
+
+Plymouth University >>> {'United Kingdom'}
+
+Arjuna Technologies Ltd >>> {'United Kingdom'}
+
+Middlesex University >>> {'United Kingdom'}
+
+Imperial College London >>> {'United Kingdom'}
+
+DEC Systems Research Center >>> {'United Kingdom'}
+
+Royal Holloway - University of London >>> {'United Kingdom'}
+
+University of Salford >>> {'United Kingdom'}
+
+Hipcat Consulting Ltd >>> {'United Kingdom'}
+
+Racal Research Ltd >>> {'United Kingdom'}
+
+City University London >>> {'United Kingdom'}
+
+Imperial College of London >>> {'United Kingdom'}
+
+University of Newcastle upon Tyne >>> {'United Kingdom'}
+
+University of Plymouth >>> {'United Kingdom'}
+
+Lancaster University >>> {'United Kingdom'}
+
+University College London (UCL) >>> {'United Kingdom'}
+
+Queen's University Belfast >>> {'United Kingdom'}
+
+The University of Manchester >>> {'United Kingdom'}
+
+University of Warwick >>> {'United Kingdom'}
+
+University of Kent >>> {'United Kingdom'}
+
+Newcastle University >>> {'United Kingdom'}
+
+Royal Holloway University of London >>> {'United Kingdom'}
+
+University of Bedfordshire >>> {'United Kingdom'}
+
+Edinburgh Napier University >>> {'United Kingdom'}
+
+Nokia Bell Labs >>> {'United States of America', 'Ireland', 'United Kingdom'}
+
+University of Surrey >>> {'United Kingdom'}
+
+Ulster University >>> {'United Kingdom'}
+
+University of Greenwich >>> {'United Kingdom'}
+
+University of Aberdeen >>> {'United Kingdom'}
+
+Queen's University of Belfast >>> {'United Kingdom'}
+
+Imperial College >>> {'United Kingdom'}
+
+University of Bath >>> {'United Kingdom'}
+
+Rutherford Appleton Laboratory >>> {'United Kingdom'}
+
+Aberystwyth University >>> {'United Kingdom'}
+
+City University >>> {'United Kingdom'}
+
+Loughborough University >>> {'United Kingdom'}
+
+Liverpool John Moores University >>> {'United Kingdom'}
+
+Alan Turing Institute >>> {'United Kingdom'}
+
+Birmingham City University >>> {'United Kingdom'}
+
+Ethereum Foundation >>> {'Denmark'}
+
+IT University of Copenhagen >>> {'Denmark'}
+
+Technical University of Denmark >>> {'Denmark'}
+
+University of Aarhus >>> {'Denmark'}
+
+Aarhus University >>> {'Denmark'}
+
+IP Network and Core Telenor A/S >>> {'Denmark'}
+
+Uber >>> {'Denmark'}
+
+University of Copenhagen >>> {'Denmark'}
+
+Aalborg University >>> {'Denmark'}
+
+University of Kentucky >>> {'United States of America'}
+
+Wright-Patterson Air Force Base >>> {'United States of America'}
+
+US Office of Management and Budget >>> {'United States of America'}
+
+University of Wisconsin >>> {'United States of America'}
+
+The University of Tulsa >>> {'United States of America'}
+
+NortonLifeLock Research Group >>> {'United States of America'}
+
+Rambus Cryptography Research Division >>> {'United States of America'}
+
+NJIT >>> {'United States of America'}
+
+University of Illinois Urbana-Champaign >>> {'United States of America'}
+
+Penn State >>> {'United States of America'}
+
+Accenture Labs >>> {'United States of America'}
+
+National Institute of Standards and Technology >>> {'United States of America'}
+
+Mozilla >>> {'United States of America'}
+
+JPMorgan Chase >>> {'United States of America'}
+
+Intel Research >>> {'United States of America'}
+
+University of Central Florida >>> {'United States of America'}
+
+Wesleyan University Middletown >>> {'United States of America'}
+
+Berkeley Design Automation >>> {'United States of America'}
+
+Computer Science Department >>> {'Israel', 'United States of America'}
+
+Stony Brook University >>> {'United States of America'}
+
+University of Minnesota at Twin Cities >>> {'United States of America'}
+
+University of California Santa Barbara >>> {'United States of America'}
+
+University of California Riverside >>> {'United States of America'}
+
+Bell Laboratories >>> {'United States of America'}
+
+Georgia Tech >>> {'United States of America'}
+
+Columbus State University >>> {'United States of America'}
+
+Potomac Institute for Policy Studies >>> {'United States of America'}
+
+Southwestern Oklahoma State University >>> {'United States of America'}
+
+State University of New York at Stony Brook >>> {'United States of America'}
+
+Indiana University - Purdue University Indianapolis >>> {'United States of America'}
+
+Hofstra University >>> {'United States of America'}
+
+IBM Research Center >>> {'United States of America'}
+
+Northeastern State University >>> {'United States of America'}
+
+World Wide Web Consortium >>> {'United States of America'}
+
+Motorola Laboratories >>> {'United States of America'}
+
+Waymo LLC >>> {'United States of America'}
+
+State University of New York at Binghamton >>> {'United States of America'}
+
+AT&T Labs >>> {'United States of America'}
+
+The George Washington University >>> {'United States of America'}
+
+Frostburg State University >>> {'United States of America'}
+
+Illinois Institute of Technology >>> {'United States of America'}
+
+Boise State University >>> {'United States of America'}
+
+University at Albany - State University of New York (SUNY Albany) >>> {'United States of America'}
+
+New Mexico State University >>> {'United States of America'}
+
+Worcester Polytechnique Institute >>> {'United States of America'}
+
+Air Force Research Laboratory (AFRL) >>> {'United States of America'}
+
+College of William and Mary >>> {'United States of America'}
+
+Oklahoma State University >>> {'United States of America'}
+
+IBM T.J. Watson Research Center >>> {'United States of America'}
+
+Purdue University >>> {'United States of America'}
+
+Palo Alto Research Center Incorporated >>> {'United States of America'}
+
+Cognicity >>> {'United States of America'}
+
+University of Minnesota Twin Cities >>> {'United States of America'}
+
+NEC Labs >>> {'United States of America'}
+
+Yahoo! Inc. >>> {'United States of America'}
+
+George Washington University >>> {'United States of America'}
+
+University of Georgia >>> {'United States of America'}
+
+United States Military Academy >>> {'United States of America'}
+
+California University of Pennsylvania >>> {'United States of America'}
+
+Department of Computer and Information Science >>> {'United States of America'}
+
+Cryptography Research >>> {'United States of America'}
+
+Intel Labs & MIT >>> {'United States of America'}
+
+University of Missouri-Rolla >>> {'United States of America'}
+
+Brandeis University >>> {'United States of America'}
+
+eBay >>> {'United States of America'}
+
+Washington University >>> {'United States of America'}
+
+Sun Microsystem Laboratories >>> {'United States of America'}
+
+Visa Inc. >>> {'United States of America'}
+
+University of Oregon >>> {'United States of America'}
+
+Sonoma State University >>> {'United States of America'}
+
+AI2 >>> {'United States of America'}
+
+University of Texas at Dallas >>> {'United States of America'}
+
+Philips Research USA >>> {'United States of America'}
+
+University of Colorado Boulder >>> {'United States of America'}
+
+NVIDIA >>> {'United States of America'}
+
+Tufts University >>> {'United States of America'}
+
+Siemens Corporate Research >>> {'United States of America'}
+
+Samsung Telecommunications America >>> {'United States of America'}
+
+IDA Center for Communications Research >>> {'United States of America'}
+
+Cornell University >>> {'United States of America'}
+
+Wayne State University >>> {'United States of America'}
+
+Western Digital Research >>> {'United States of America'}
+
+Naval Research Laboratory (NRL) >>> {'United States of America'}
+
+Brooklyn College >>> {'United States of America'}
+
+NICTA >>> {'Australia', 'United States of America'}
+
+University of New Mexico in Albuquerque >>> {'United States of America'}
+
+Massachusetts Institute of Technology (MIT) >>> {'United States of America'}
+
+IBM Watson Health >>> {'United States of America'}
+
+University of Colorado at Boulder >>> {'United States of America'}
+
+Pacific Northwest National Laboratory >>> {'United States of America'}
+
+University of Massachusetts Lowell >>> {'United States of America'}
+
+Microsoft Corp. >>> {'United States of America'}
+
+Villanova University >>> {'United States of America'}
+
+Oregon Graduate Institute of Science and Technology >>> {'United States of America'}
+
+Emory University >>> {'United States of America'}
+
+Hawaii University >>> {'United States of America'}
+
+University of California at Santa Barbara >>> {'United States of America'}
+
+OmniTI >>> {'United States of America'}
+
+Hewlett Packard Labs >>> {'United States of America'}
+
+Verisign >>> {'United States of America'}
+
+NMS Communications >>> {'United States of America'}
+
+GE Global Research Center >>> {'United States of America'}
+
+Rochester Institute of Technology >>> {'United States of America'}
+
+US Department of Homeland Security >>> {'United States of America'}
+
+University of Utah >>> {'United States of America'}
+
+University of California Davis >>> {'United States of America'}
+
+North Carolina State University >>> {'United States of America'}
+
+Yahoo! Research >>> {'United States of America'}
+
+Oregon Graduate Institute of Science & Technology >>> {'United States of America'}
+
+Samsung Research America >>> {'United States of America'}
+
+University of Rhode Island >>> {'United States of America'}
+
+University of Illinois at Urbana Champaign >>> {'United States of America'}
+
+IBM Thomas J Watson Research Center >>> {'United States of America'}
+
+Healthwise >>> {'United States of America'}
+
+Ohio University >>> {'United States of America'}
+
+Amazon Web Services >>> {'United States of America'}
+
+University of Louisiana at Lafayette >>> {'United States of America'}
+
+University of New Orleans >>> {'United States of America'}
+
+IBM Austin Research Lab >>> {'United States of America'}
+
+Stealth Security >>> {'United States of America'}
+
+University of Massachusetts - Amherst >>> {'United States of America'}
+
+Immunity Inc. >>> {'United States of America'}
+
+VMware >>> {'United States of America'}
+
+University of North Carolina at Charlotte (UNCC) >>> {'United States of America'}
+
+Intelligent Automation >>> {'United States of America'}
+
+Fujitsu Labs >>> {'United States of America'}
+
+Wormpex AI Research >>> {'United States of America'}
+
+Hewlett-Packard >>> {'United States of America'}
+
+IBM >>> {'United States of America'}
+
+Bell Labs >>> {'United States of America', 'Finland'}
+
+Georgia Institute of Technology in Atlanta >>> {'United States of America'}
+
+NTT Multimedia Communications Laboratories >>> {'United States of America'}
+
+San Diego State University >>> {'United States of America'}
+
+Teltier Technologies >>> {'United States of America'}
+
+Raytheon BBN Technologies >>> {'United States of America'}
+
+Oberlin College >>> {'United States of America'}
+
+IBM Federal Systems Company >>> {'United States of America'}
+
+Bellcore >>> {'United States of America'}
+
+The MITRE Corporation >>> {'United States of America'}
+
+Texas A&M University Commerce >>> {'United States of America'}
+
+UCLA >>> {'United States of America'}
+
+NYU School of Engineering >>> {'United States of America'}
+
+Argonne National Laboraty >>> {'United States of America'}
+
+Cray >>> {'United States of America'}
+
+The Pennsylvania State University >>> {'United States of America'}
+
+Sharp Laboratories of America >>> {'United States of America'}
+
+University of Arkansas for Medical Sciences >>> {'United States of America'}
+
+Yale University >>> {'United States of America'}
+
+New York University >>> {'United States of America'}
+
+University of Richmond >>> {'United States of America'}
+
+Middlebury College >>> {'United States of America'}
+
+IBM Almaden Research Center >>> {'United States of America'}
+
+University of Hawaii at Manoa >>> {'United States of America'}
+
+Kennesaw State University >>> {'United States of America'}
+
+Samsung Research American >>> {'United States of America'}
+
+National Security Agency >>> {'United States of America'}
+
+Dialogic Research Inc. >>> {'United States of America'}
+
+National Science Foundation >>> {'United States of America'}
+
+University of Peradeniya >>> {'United States of America'}
+
+Seagate Technologies >>> {'United States of America'}
+
+University of New Mexico >>> {'United States of America'}
+
+Thomson Inc. >>> {'United States of America'}
+
+University of Texas Rio Grande Valley >>> {'United States of America'}
+
+BBN Technologies >>> {'United States of America'}
+
+Harvard University >>> {'United States of America'}
+
+Apple Computer Inc. >>> {'United States of America'}
+
+University of Wisconsin-Milwaukee >>> {'United States of America'}
+
+City University of New York >>> {'United States of America'}
+
+Northern Illinois University >>> {'United States of America'}
+
+Intelligent Automation Inc. >>> {'United States of America'}
+
+University of Chicago >>> {'United States of America'}
+
+Oregon State University >>> {'United States of America'}
+
+ACM >>> {'United States of America'}
+
+MIT >>> {'United States of America'}
+
+Texas A&M University >>> {'Qatar', 'United States of America'}
+
+AT&T Research Laboratories >>> {'United States of America'}
+
+Tintri >>> {'United States of America'}
+
+University of Nebraska Lincoln >>> {'United States of America'}
+
+Air Force Institute of Technology >>> {'United States of America'}
+
+University of Alabama at Birmingham >>> {'United States of America'}
+
+Alcatel-Lucent >>> {'United States of America'}
+
+University of Connecticut >>> {'United States of America'}
+
+Symantec Research Labs >>> {'United States of America'}
+
+Catholic University of America >>> {'United States of America'}
+
+University of Tennessee >>> {'United States of America'}
+
+Cisco Services >>> {'United States of America'}
+
+University of Tennessee at Chattanooga >>> {'United States of America'}
+
+Cisco Systems >>> {'United States of America'}
+
+State University of New York at Buffalo >>> {'United States of America'}
+
+Department of Electrical Engineering and Computer Science >>> {'United States of America'}
+
+University of Colorado at Colorado Springs >>> {'United States of America'}
+
+Arizona State University >>> {'United States of America'}
+
+Advanced Decision Systems >>> {'United States of America'}
+
+Apple Inc. >>> {'United States of America'}
+
+Allure Security Technology Inc. >>> {'United States of America'}
+
+Oracle >>> {'United States of America'}
+
+Missouri University of Science and Technology >>> {'United States of America'}
+
+Epic Systems Corporation >>> {'United States of America'}
+
+Xilinx Research Labs >>> {'United States of America'}
+
+Mathematics and Computer Science Division >>> {'United States of America'}
+
+University of Washington >>> {'United States of America'}
+
+Microsoft Research Cambridge >>> {'United States of America'}
+
+University of Berkeley >>> {'United States of America'}
+
+Purdue University Indianapolis >>> {'United States of America'}
+
+Facebook >>> {'United States of America'}
+
+Kestrel Institute >>> {'United States of America'}
+
+University of Maryland Baltimore County >>> {'United States of America'}
+
+Pennsylvania State University >>> {'United States of America'}
+
+General Motors Research >>> {'United States of America'}
+
+University of North Carolina at Chapel Hill (UNC) >>> {'United States of America'}
+
+Sybase >>> {'United States of America'}
+
+DeepSig >>> {'United States of America'}
+
+Clemson University >>> {'United States of America'}
+
+Google >>> {'United States of America'}
+
+Google Inc. >>> {'United States of America'}
+
+Brigham Young University >>> {'United States of America'}
+
+Riverside Research >>> {'United States of America'}
+
+Department of Mathematics >>> {'Australia', 'India', 'United States of America'}
+
+Ask Jeeves >>> {'United States of America'}
+
+Johns Hopkins University >>> {'United States of America'}
+
+AT&T Bell Laboratories >>> {'United States of America'}
+
+Microsoft Research New York City >>> {'United States of America'}
+
+Clarkson University >>> {'United States of America'}
+
+Rether Networks >>> {'United States of America'}
+
+Naval Research Laboratory >>> {'United States of America'}
+
+Stevens Insitute of Technology >>> {'United States of America'}
+
+Rutgers University >>> {'United States of America'}
+
+University of South Carolina >>> {'United States of America'}
+
+Keene State College >>> {'United States of America'}
+
+Google Research >>> {'United States of America'}
+
+University of Illinois System >>> {'United States of America'}
+
+Ericsson Research >>> {'Sweden', 'United States of America'}
+
+Southern Illinois University >>> {'United States of America'}
+
+Montana State University >>> {'United States of America'}
+
+Google Brain >>> {'United States of America'}
+
+Worcester Polytechnic Institute >>> {'United States of America'}
+
+Ismion Inc. >>> {'United States of America'}
+
+University of North Carolina >>> {'United States of America'}
+
+Synokey LLC >>> {'United States of America'}
+
+State University of New York at Albany >>> {'United States of America'}
+
+Facebook AI >>> {'United States of America'}
+
+University of Vermont >>> {'United States of America'}
+
+Intel >>> {'United States of America'}
+
+University of Florida Gainesville >>> {'United States of America'}
+
+Nokia Research Center >>> {'Finland', 'United States of America', 'China'}
+
+University of Nevada >>> {'United States of America'}
+
+Georgia Institue of Technology >>> {'United States of America'}
+
+Microsoft Research Silicon Valley >>> {'United States of America'}
+
+University of Arizona >>> {'United States of America'}
+
+Northern Arizona University >>> {'United States of America'}
+
+National Bureau of Standards >>> {'United States of America'}
+
+Intuit Inc. >>> {'United States of America'}
+
+University of California at Irvine >>> {'United States of America'}
+
+Harvard Kennedy School >>> {'United States of America'}
+
+NEC Labs. America >>> {'United States of America'}
+
+NASA Ames Research Center >>> {'United States of America'}
+
+Microsoft Research Redmond >>> {'United States of America'}
+
+University of California at Los Angeles >>> {'United States of America'}
+
+Howard University >>> {'United States of America'}
+
+University of Wisconsin-Madison Madison >>> {'United States of America'}
+
+National Computer Security Center >>> {'United States of America'}
+
+University of Massachusetts at Amherst >>> {'United States of America'}
+
+University of New Haven >>> {'United States of America'}
+
+University of Wisconsin-Madison >>> {'United States of America'}
+
+PerceptIn >>> {'United States of America'}
+
+California State University Sacramento >>> {'United States of America'}
+
+University of Nebraska-Lincoln >>> {'United States of America'}
+
+State University of New York af Buffalo >>> {'United States of America'}
+
+University of Houston >>> {'United States of America'}
+
+Symantec Corporation >>> {'United States of America'}
+
+Virginia Polytechnic Institute and State University >>> {'United States of America'}
+
+Case Western Reserve University >>> {'United States of America'}
+
+IBM T. J. Watson Research Center >>> {'United States of America'}
+
+University of Texas at El Paso >>> {'United States of America'}
+
+SRI International >>> {'United States of America'}
+
+Visa Research >>> {'United States of America'}
+
+University of Illinois at Urbana-Champaign >>> {'United States of America'}
+
+University of California Santa Cruz >>> {'United States of America'}
+
+Fujitsu Laboratories of America >>> {'United States of America'}
+
+Sun Microsystems >>> {'United States of America'}
+
+California State University >>> {'United States of America'}
+
+Georgia Southern University >>> {'United States of America'}
+
+University of California at San Diego >>> {'United States of America'}
+
+Telecom Australia Research Laboratories >>> {'United States of America'}
+
+University of Kansas >>> {'United States of America'}
+
+Indiana University >>> {'United States of America'}
+
+U.S. Army Research Laboratory >>> {'United States of America'}
+
+Turn Inc. >>> {'United States of America'}
+
+Northeastern University >>> {'United States of America', 'China'}
+
+AT&T Security Research Center >>> {'United States of America'}
+
+University of Florida >>> {'United States of America'}
+
+Kansas State University >>> {'United States of America'}
+
+Brown University >>> {'United States of America'}
+
+International Computer Science Institute (ICSI) >>> {'United States of America'}
+
+Eastman Kodak Company >>> {'United States of America'}
+
+Intelligent Automation Inc >>> {'United States of America'}
+
+Harvard Medical School >>> {'United States of America'}
+
+Yale Unviersity >>> {'United States of America'}
+
+University of Central Arkansas >>> {'United States of America'}
+
+University of California Irvine >>> {'United States of America'}
+
+Cleveland State University >>> {'United States of America'}
+
+Ohio Supercomputer Center >>> {'United States of America'}
+
+Iowa State University >>> {'United States of America'}
+
+Rensselaer Polytechnic Institute >>> {'United States of America'}
+
+Yahoo Research >>> {'United States of America'}
+
+University of California >>> {'United States of America'}
+
+University of Maryland >>> {'United States of America'}
+
+University of California at Berkeley >>> {'United States of America'}
+
+University of Minnesota >>> {'United States of America'}
+
+Lymba Corporation >>> {'United States of America'}
+
+EMC Corp. >>> {'United States of America'}
+
+University of Arkansas >>> {'United States of America'}
+
+Hewlett Packard Development Company >>> {'United States of America'}
+
+RAND Corporation >>> {'United States of America'}
+
+University of California at Riverside >>> {'United States of America'}
+
+Oakland University >>> {'United States of America'}
+
+Google Inc >>> {'United States of America'}
+
+IBM Corporation >>> {'United States of America'}
+
+Xerox PARC >>> {'United States of America'}
+
+The College of William & Mary >>> {'United States of America'}
+
+University of Hawaii >>> {'United States of America'}
+
+Symantec CAML Group >>> {'United States of America'}
+
+Netflix >>> {'United States of America'}
+
+Siemens Corporate Rearch >>> {'United States of America'}
+
+Lamar University >>> {'United States of America'}
+
+Auburn University >>> {'United States of America'}
+
+NuCypher Inc. >>> {'United States of America'}
+
+Microsoft Research New England >>> {'United States of America'}
+
+The University of Texas at Arlington >>> {'United States of America'}
+
+University of Michigan-Dearborn >>> {'United States of America'}
+
+The Mitre Corporation >>> {'United States of America'}
+
+Oracle Corporation >>> {'United States of America'}
+
+James Madison University >>> {'United States of America'}
+
+Fireeye >>> {'United States of America'}
+
+AOL Research >>> {'United States of America'}
+
+Lawrence Livermore National Laboratory >>> {'United States of America'}
+
+University of California at Santa Cruz (UCSC) >>> {'United States of America'}
+
+General Motors Research and Development >>> {'United States of America'}
+
+Lawrence Technological University >>> {'United States of America'}
+
+Advanced Micro Devices >>> {'United States of America'}
+
+University of Iowa >>> {'United States of America'}
+
+AT&T Services >>> {'United States of America'}
+
+Millersville University >>> {'United States of America'}
+
+Damballa Inc. >>> {'United States of America'}
+
+New Jersey Institute of Technology >>> {'United States of America'}
+
+University of Texas >>> {'United States of America'}
+
+Boston University >>> {'United States of America'}
+
+Lafayette College >>> {'United States of America'}
+
+Texas A&M University Corpus Christi >>> {'United States of America'}
+
+Pinterest >>> {'United States of America'}
+
+MITRE Corporation >>> {'United States of America'}
+
+George Mason University >>> {'United States of America'}
+
+Virginia Tech >>> {'United States of America'}
+
+University of Pennsylvania >>> {'United States of America'}
+
+Northwestern University >>> {'United States of America'}
+
+Monmouth University >>> {'United States of America'}
+
+Oklahoma State University Stillwater >>> {'United States of America'}
+
+Carnegie Mellon University >>> {'United States of America'}
+
+University of North Carolina at Charlotte >>> {'United States of America'}
+
+Oak Ridge National Laboratory >>> {'United States of America'}
+
+Sandia National Laboratory >>> {'United States of America'}
+
+Carnegie Mellon University Silicon Valley >>> {'United States of America'}
+
+Neumann University >>> {'United States of America'}
+
+University of Massachusetts Lowell (UMASS Lowell) >>> {'United States of America'}
+
+New York Polytechnic University >>> {'United States of America'}
+
+University of California San Diego >>> {'United States of America'}
+
+University of Massachusetts >>> {'United States of America'}
+
+Curai >>> {'United States of America'}
+
+NJIT Cybersecurity Research Center >>> {'United States of America'}
+
+Liberty University >>> {'United States of America'}
+
+Santa Clara University >>> {'United States of America'}
+
+Lucent Bell Labs >>> {'United States of America'}
+
+Oasis Labs >>> {'United States of America'}
+
+University of Southern California >>> {'United States of America'}
+
+Lucent Technologies Bell Labs >>> {'United States of America'}
+
+TRW Syst. Integration Group >>> {'United States of America'}
+
+University of Toledo >>> {'United States of America'}
+
+NASA Goddard Space Flight Center >>> {'United States of America'}
+
+University of Oklahoma >>> {'United States of America'}
+
+Mentor Graphics Corporation >>> {'United States of America'}
+
+Old Dominion University >>> {'United States of America'}
+
+Florida Institute of Technology >>> {'United States of America'}
+
+Facebook Inc. >>> {'United States of America'}
+
+University of Nevada Las Vegas >>> {'United States of America'}
+
+Dartmouth College >>> {'United States of America'}
+
+San Jose State University >>> {'United States of America'}
+
+Nokia Research Center Hollywood >>> {'United States of America'}
+
+IBM Thomas J. Watson Research Center >>> {'United States of America'}
+
+Florida International University >>> {'United States of America'}
+
+Lawrence Livermore National Laboratory (LLNL) >>> {'United States of America'}
+
+InterDigital Communications LLC >>> {'United States of America'}
+
+Grand Valley State University >>> {'United States of America'}
+
+Verayo >>> {'United States of America'}
+
+Qualcomm Inc. >>> {'United States of America'}
+
+US Naval Research Laboratory >>> {'United States of America'}
+
+University of Alabama >>> {'United States of America'}
+
+Akamai Technologies >>> {'United States of America'}
+
+DePaul University >>> {'United States of America'}
+
+Michigan Technological University >>> {'United States of America'}
+
+University of Texas at Austin >>> {'United States of America'}
+
+Duke University >>> {'United States of America'}
+
+Toyota Technological Institute at Chicago >>> {'United States of America'}
+
+Wright State University >>> {'United States of America'}
+
+NVIDIA Corporation >>> {'United States of America'}
+
+eorge Mason University >>> {'United States of America'}
+
+Wichita State University >>> {'United States of America'}
+
+University at Albany >>> {'United States of America'}
+
+University of Massachusetts Dartmouth >>> {'United States of America'}
+
+Air Force Research Laboratory >>> {'United States of America'}
+
+Rubrik Inc. >>> {'United States of America'}
+
+Galois >>> {'United States of America'}
+
+Quora >>> {'United States of America'}
+
+Runtime Verification Inc. >>> {'United States of America'}
+
+Siemens Corporate Technology >>> {'United States of America', 'Germany'}
+
+Fontbonne University >>> {'United States of America'}
+
+VMware Research >>> {'United States of America'}
+
+AT&T Labs - Research >>> {'United States of America'}
+
+Google Scholar >>> {'United States of America'}
+
+University of Cincinnati >>> {'United States of America'}
+
+University of Arkansas at Little Rock >>> {'United States of America'}
+
+De Paul University >>> {'United States of America'}
+
+Naval Postgraduate School >>> {'United States of America'}
+
+Seagate Technology LLC >>> {'United States of America'}
+
+Columbia University >>> {'United States of America'}
+
+Eastern Michigan University (EMU) >>> {'United States of America'}
+
+Xenatera Partners >>> {'United States of America'}
+
+University of Michigan >>> {'United States of America'}
+
+Eastern Kentucky University >>> {'United States of America'}
+
+National Renewable Energy Laboratory >>> {'United States of America'}
+
+California State University Long Beach >>> {'United States of America'}
+
+Xerox >>> {'United States of America'}
+
+University of Alabama in Huntsville >>> {'United States of America'}
+
+Vanderbilt University Medical Center >>> {'United States of America'}
+
+Meta AI >>> {'United States of America'}
+
+University of California Berkeley >>> {'United States of America'}
+
+United States Department of Defense >>> {'United States of America'}
+
+University of Texas at San Antonio >>> {'United States of America'}
+
+Macalester College >>> {'United States of America'}
+
+Tennessee Technological University >>> {'United States of America'}
+
+Dropbox Inc. >>> {'United States of America'}
+
+Open Networking Foundation >>> {'United States of America'}
+
+MIT CSAIL >>> {'United States of America'}
+
+University of Illinois >>> {'United States of America'}
+
+Princeton University >>> {'United States of America'}
+
+Fortanix >>> {'United States of America'}
+
+Stevens Institute of Technology >>> {'United States of America'}
+
+Western Michigan University >>> {'United States of America'}
+
+IBM T J Watson Research Center >>> {'United States of America'}
+
+University of Memphis >>> {'United States of America'}
+
+University of South Florida >>> {'United States of America'}
+
+Georgetown University >>> {'United States of America'}
+
+Kryptowire >>> {'United States of America'}
+
+Ohio State University >>> {'United States of America'}
+
+Texas Tech University >>> {'United States of America'}
+
+MITZ >>> {'United States of America'}
+
+Yeshiva University >>> {'United States of America'}
+
+Santa Fe Institute >>> {'United States of America'}
+
+University of Floria >>> {'United States of America'}
+
+University of Massachusetts Amherst >>> {'United States of America'}
+
+University of Delaware >>> {'United States of America'}
+
+Yahoo Inc. >>> {'United States of America'}
+
+Colgate University >>> {'United States of America'}
+
+National Institutes of Health >>> {'United States of America'}
+
+Polytechnic University >>> {'United States of America'}
+
+Michigan State University >>> {'United States of America'}
+
+Cloudflare >>> {'United States of America'}
+
+Washington University in St. Louis >>> {'United States of America'}
+
+Washington State University >>> {'United States of America'}
+
+University of Missouri-Columbia >>> {'United States of America'}
+
+University of New Hampshire >>> {'United States of America'}
+
+Tulane University >>> {'United States of America'}
+
+College of Computing >>> {'United States of America'}
+
+The Ohio State University >>> {'United States of America'}
+
+University of Missouri-Kansas City >>> {'United States of America'}
+
+Intel Labs >>> {'United States of America'}
+
+Honeywell Computer Sciences Center >>> {'United States of America'}
+
+The University of Texas >>> {'United States of America'}
+
+College of William & Mary >>> {'United States of America'}
+
+NYU Polytechnic Institute >>> {'United States of America'}
+
+Georgia State University >>> {'United States of America'}
+
+Argela-USA >>> {'United States of America'}
+
+Temple University >>> {'United States of America'}
+
+Bell Communications Research >>> {'United States of America'}
+
+NYU Polytechnic School of Engineering >>> {'United States of America'}
+
+UC Berkeley >>> {'United States of America'}
+
+University of Auckland >>> {'United States of America', 'New Zealand'}
+
+The University of Iowa >>> {'United States of America'}
+
+Colorado State University >>> {'United States of America'}
+
+NEC Laboratories America >>> {'United States of America'}
+
+Golden Metallic Inc. >>> {'United States of America'}
+
+Indiana University Bloomington >>> {'United States of America'}
+
+Harvey Mudd College >>> {'United States of America'}
+
+The Johns Hopkins University >>> {'United States of America'}
+
+Roosevelt University >>> {'United States of America'}
+
+School of Information Studies >>> {'United States of America'}
+
+Microsoft Corp >>> {'United States of America'}
+
+University of Virginia >>> {'United States of America'}
+
+Synopsys Inc. >>> {'United States of America'}
+
+Microsoft Research >>> {'United States of America'}
+
+Georgia Institute of Technology >>> {'United States of America'}
+
+Walmart Labs >>> {'United States of America'}
+
+Sandia National Laboratories >>> {'United States of America'}
+
+Embry-Riddle Aeronautical University >>> {'United States of America'}
+
+Motorala Labs >>> {'United States of America'}
+
+Data Insights Laboratories >>> {'United States of America'}
+
+AT&T Labs-Research >>> {'United States of America'}
+
+The University of Texas at Austin >>> {'United States of America'}
+
+Palo Alto Research Center >>> {'United States of America'}
+
+PAR Government >>> {'United States of America'}
+
+Binghamton University >>> {'United States of America'}
+
+Princeton >>> {'United States of America'}
+
+University of Colorado >>> {'United States of America'}
+
+Thomas J. Watson Research Center >>> {'United States of America'}
+
+City College of New Yoek >>> {'United States of America'}
+
+Ohio State Univ. >>> {'United States of America'}
+
+National Defense University >>> {'United States of America'}
+
+University of Dayton >>> {'United States of America'}
+
+Florida State University >>> {'United States of America'}
+
+NIKSUN >>> {'United States of America'}
+
+Lehigh University >>> {'United States of America'}
+
+California State Polytechnic University >>> {'United States of America'}
+
+Pomona College >>> {'United States of America'}
+
+Portland State University >>> {'United States of America'}
+
+Penn State University >>> {'United States of America'}
+
+Lastline >>> {'United States of America'}
+
+Diaologic >>> {'United States of America'}
+
+Microsoft >>> {'United States of America'}
+
+University of Colorado Denver >>> {'United States of America'}
+
+Vanderbilt University >>> {'United States of America'}
+
+Cornell Tech >>> {'United States of America'}
+
+University of Notre Dame >>> {'United States of America'}
+
+Mississippi State University >>> {'United States of America'}
+
+University of Virginia (UVA) >>> {'United States of America'}
+
+University of Nebraska at Omaha >>> {'United States of America'}
+
+Institute for Advanced Study >>> {'United States of America'}
+
+University of North Carolina at Chapel Hill >>> {'United States of America'}
+
+NEC Labs America >>> {'United States of America'}
+
+Rowan University >>> {'United States of America'}
+
+University of California Los Angeles >>> {'United States of America'}
+
+Scripps Research Institute >>> {'United States of America'}
+
+Forida Institute of Technology >>> {'United States of America'}
+
+CyberCash >>> {'United States of America'}
+
+Central Michigan University >>> {'United States of America'}
+
+University of California-Irvine >>> {'United States of America'}
+
+RedJack >>> {'United States of America'}
+
+West Virginia University >>> {'United States of America'}
+
+Compaq Computer Corporation >>> {'United States of America'}
+
+Los Alamos National Laboratory >>> {'United States of America'}
+
+University of North Texas >>> {'United States of America'}
+
+U.S. Naval Research Laboratory >>> {'United States of America'}
+
+University of Illinois Urbana Champaign >>> {'United States of America'}
+
+McDaniel College >>> {'United States of America'}
+
+Virginia Commonwealth University >>> {'United States of America'}
+
+MIT Lincoln Laboratory >>> {'United States of America'}
+
+University of Tennesee >>> {'United States of America'}
+
+University of Rochester >>> {'United States of America'}
+
+Sandia Laboratories >>> {'United States of America'}
+
+PQSecure Technologies >>> {'United States of America'}
+
+MIT Computer Science and Artificial Intelligence Laboratory >>> {'United States of America'}
+
+RSA Laboratories >>> {'United States of America'}
+
+West Virginia University Institute of Technology >>> {'United States of America'}
+
+United Technologies Research Center >>> {'United States of America'}
+
+Microsoft Research New England (MSR-NE) >>> {'United States of America'}
+
+American University >>> {'United States of America'}
+
+KeyEye Communications >>> {'United States of America'}
+
+Seagate Technology Inc. >>> {'United States of America'}
+
+Tennessee Tech University >>> {'United States of America'}
+
+Stanford University >>> {'United States of America'}
+
+International Computer Science Institute >>> {'United States of America'}
+
+US Army Research Laboratory >>> {'United States of America'}
+
+University of Houston Clear Lake >>> {'United States of America'}
+
+AT&T Labs Research >>> {'United States of America'}
+
+State University of New York at New Paltz >>> {'United States of America'}
+
+Massachusetts Institute of Technology >>> {'United States of America'}
+
+Applied Communications Sciences >>> {'United States of America'}
+
+Arbor Networks >>> {'United States of America'}
+
+Twitter Inc >>> {'United States of America'}
+
+Fordham University >>> {'United States of America'}
+
+University of Miami >>> {'United States of America'}
+
+Intel Corporation >>> {'India', 'United States of America', 'China'}
+
+Defense Advanced Research Projects Agency (DARPA) >>> {'United States of America'}
+
+Rice University >>> {'United States of America'}
+
+Argonne National Laboratory >>> {'United States of America'}
+
+NEC Laboratories >>> {'United States of America'}
+
+University of Pittsburgh >>> {'United States of America'}
+
+Colorado School of Mines >>> {'United States of America'}
+
+Honeywell Systems and Research Center >>> {'United States of America'}
+
+AT&T Bell Labs >>> {'United States of America'}
+
+Personalogy Inc >>> {'United States of America'}
+
+QUALCOMM Incorporated >>> {'United States of America'}
+
+University of Wisconsin - Madison >>> {'United States of America'}
+
+California Institute of Technology >>> {'United States of America'}
+
+Drexel University >>> {'United States of America'}
+
+Trustwave >>> {'United States of America'}
+
+Florida Atlantic University >>> {'United States of America'}
+
+Conviva Inc. >>> {'United States of America'}
+
+Qualcomm Research Silicon Valley >>> {'United States of America'}
+
+Xerox Corporation >>> {'United States of America'}
+
+Lucent Technologies >>> {'United States of America'}
+
+University of North Carolina at Greensboro >>> {'United States of America'}
+
+IBM Research - Almaden >>> {'United States of America'}
+
+Southern Methodist University >>> {'United States of America'}
+
+Intel Research Laboratory >>> {'United States of America'}
+
+Huawei America Research Center >>> {'United States of America'}
+
+Accenture Technology Labs >>> {'United States of America'}
+
+Hewlett-Packard Labs >>> {'United States of America'}
+
+Syracuse University >>> {'United States of America'}
+
+University of South Alabama >>> {'United States of America'}
+
+University of Texas at Arlington >>> {'United States of America'}
+
+Towson University >>> {'United States of America'}
+
+Linear Time Informatics >>> {'United States of America'}
+
+LogicBlox Inc. >>> {'United States of America'}
+
+U.S. Census Bureau >>> {'United States of America'}
+
+AT&T Inc >>> {'United States of America'}
+
+Unniversity of California >>> {'United States of America'}
+
+Avaya Labs >>> {'United States of America'}
+
+Lawrence Berkeley National Lab >>> {'United States of America'}
+
+State University of New York >>> {'United States of America'}
+
+New Mexico Institute of Mining and Technology >>> {'United States of America'}
+
+University of Illinois at Chicago >>> {'United States of America'}
+
+WireX Communications >>> {'United States of America'}
+
+University at Buffalo >>> {'United States of America'}
+
+Microsoft Corporation >>> {'United States of America'}
+
+Colorado Technical University >>> {'United States of America'}
+
+Utah State University >>> {'United States of America'}
+
+Louisiana State University >>> {'United States of America'}
+
+East Tennessee State University >>> {'United States of America'}
+
+Google Security & Privacy >>> {'United States of America'}
+
+Amazon >>> {'United States of America'}
+
+Cyxtera Technologies >>> {'United States of America'}
+
+The College of William and Mary >>> {'United States of America'}
+
+Cigital Inc. >>> {'United States of America'}
+
+PayPal Inc. >>> {'United States of America'}
+
+Western Illinois University >>> {'United States of America'}
+
+Worcester Polytechnic University >>> {'United States of America'}
+
+University at Albany - SUNY >>> {'United States of America'}
+
+New York University Tandon School of Engineering >>> {'United States of America'}
+
+Texas Instruments Inc. >>> {'United States of America'}
+
+Tennessee State University >>> {'United States of America'}
+
+Google Corporation >>> {'United States of America'}
+
+Air Force Research Lab >>> {'United States of America'}
+
+National Institute of Standards and Technology (NIST) >>> {'United States of America'}
+
+Philips Laboratories >>> {'United States of America'}
+
+Lawrence Berkeley National Laboratory >>> {'United States of America'}
+
+Futurewei Technologies >>> {'United States of America'}
+
+National Engineering Laboratory for Information Security Technologies >>> {'China'}
+
+Institute of Software >>> {'China'}
+
+Huawei Technologies Co. >>> {'China'}
+
+Huawei Future Network Theory Lab >>> {'China'}
+
+Shenzhen University >>> {'China'}
+
+Wuhan University of Technology >>> {'China'}
+
+Hainan University >>> {'China'}
+
+School of Cyber Security >>> {'China'}
+
+Shenzhen Institutes of Advanced Technology >>> {'China'}
+
+National Natural Science Foundation of China >>> {'China'}
+
+University of Science and Technology Beijing >>> {'China'}
+
+United Nations University >>> {'China'}
+
+Qilu University of Technology (Shandong Academy of Sciences) >>> {'China'}
+
+Baidu Research >>> {'China'}
+
+State Key Laboratory of Mathematical Engineering and Advanced Computing >>> {'China'}
+
+Tianjin University >>> {'China'}
+
+Chinese Acadamy of Sciences >>> {'China'}
+
+Beijing Normal University >>> {'China'}
+
+PLA SSF Information Engineering University >>> {'China'}
+
+University of Shanghai for Science and Technology >>> {'China'}
+
+Ningbo University >>> {'China'}
+
+Chinese Academy of sciences >>> {'China'}
+
+National University of Defence Technology >>> {'China'}
+
+Chongqing University of Technology >>> {'China'}
+
+National Digital Switching System Engineering and Technological Research Center >>> {'China'}
+
+Beihang University >>> {'China'}
+
+Nanjing University of Science and Technology >>> {'China'}
+
+Tsinghua University >>> {'China'}
+
+PC Security Labs >>> {'China'}
+
+Chinese University of Hong Kong >>> {'China'}
+
+National University of Defense Technology College of Computer >>> {'China'}
+
+Tongji University >>> {'China'}
+
+Taiyuan University of Technology >>> {'China'}
+
+iFlytek >>> {'China'}
+
+City University of Hong Kong >>> {'China'}
+
+Guangdong Power Grid Company >>> {'China'}
+
+CAS Institute of Software >>> {'China'}
+
+Jinan University >>> {'China'}
+
+Hong Kong Polytechnic University >>> {'China'}
+
+Harbin Institute of Technology >>> {'China'}
+
+Beijing National Research Center for Information Science and Technology >>> {'China'}
+
+Pengcheng Laboratory >>> {'China'}
+
+Shaanxi Normal University >>> {'China'}
+
+Alibaba-Zhejiang University Joint Institute of Frontier Technologies >>> {'China'}
+
+Nanjing Forestry University >>> {'China'}
+
+Ministry of Education >>> {'China'}
+
+Zhengzhou Information Science and Technology Institute >>> {'China'}
+
+TuSimple >>> {'China'}
+
+Guangdong Key Laboratory for Biomedical Measurements and Ultrasound Imaging >>> {'China'}
+
+East China Jiaotong University >>> {'China'}
+
+Tsinghua Univerisity >>> {'China'}
+
+State Key Laboratory of Networking and Switching Technology >>> {'China'}
+
+Guangdong University of Technology >>> {'China'}
+
+Beijing Jiaotong University >>> {'China'}
+
+Hunan University >>> {'China'}
+
+Yanshan University >>> {'China'}
+
+The Hong Kong University of Science & Technology >>> {'China'}
+
+Cogobuy Group & IngDan Technologies >>> {'China'}
+
+Inceptio Technology >>> {'China'}
+
+WeBank Co. Ltd. >>> {'China'}
+
+Hubei University >>> {'China'}
+
+Xiamen University >>> {'China'}
+
+Chinese Academy of Sciences (CAS) >>> {'China'}
+
+Hangzhou Dianzi University >>> {'China'}
+
+University of Chinese Academy of Science >>> {'China'}
+
+Xi'an Research Institute of High Technology >>> {'China'}
+
+Southwest Jiaotong University >>> {'China'}
+
+Northwest University >>> {'China'}
+
+China Academy of Electronics and Information Technology >>> {'China'}
+
+Peking University >>> {'China'}
+
+Shanghai Grandhonor Information Technology Co. Ltd. >>> {'China'}
+
+Nanfang (Southern) Medical University >>> {'China'}
+
+State Key Laboratory of Cryptology >>> {'China'}
+
+China Satellite Co. >>> {'China'}
+
+Ant Financial Services Group >>> {'China'}
+
+National University of Defense Technology >>> {'China'}
+
+South China Agricultural University >>> {'China'}
+
+Microsoft Research Asia >>> {'China'}
+
+Fiberhome Telecommunication Technologies >>> {'China'}
+
+Zhengzhou Science and Technology Institute >>> {'China'}
+
+Wandoujia Lab >>> {'China'}
+
+JD.com >>> {'China'}
+
+Southwest University >>> {'China'}
+
+Huawei Technologies Co Ltd. >>> {'China'}
+
+Shanghai University of Electric Power >>> {'China'}
+
+University of the Chinese Academy of Sciences >>> {'China'}
+
+Putian University >>> {'China'}
+
+Key Laboratory of Data Engineering and Knowledge Engineering >>> {'China'}
+
+Capital Normal University >>> {'China'}
+
+The University of Hong Kong >>> {'China'}
+
+Tencent >>> {'China'}
+
+ShanghaiTech University >>> {'China'}
+
+Valkyrie-X Security Research Group (VXRL) >>> {'China'}
+
+Chinese Academy of Science >>> {'China'}
+
+Anhui Province Key Laboratory of Software in Computing and Communication >>> {'China'}
+
+Hohai University >>> {'China'}
+
+Civil Aviation University of China >>> {'China'}
+
+University of Science and Technology of China (USTC) >>> {'China'}
+
+University of Jinan >>> {'China'}
+
+Nanjing Normal University >>> {'China'}
+
+Southeast University >>> {'China'}
+
+PLA Information Engineering University >>> {'China'}
+
+The Nanchang University >>> {'China'}
+
+Intel Labs China >>> {'China'}
+
+University of Chinese Academy of Sciences >>> {'China'}
+
+Shanghai Jiaotong University >>> {'China'}
+
+University of Hong Kong >>> {'China'}
+
+Xidian University >>> {'China'}
+
+Tencent Technology Company Ltd >>> {'China'}
+
+Bejing University of Posts and Telecommunications >>> {'China'}
+
+Dongguan University of Technology >>> {'China'}
+
+Liaoning Normal University >>> {'China'}
+
+IOHK >>> {'China'}
+
+Graduate University of Chinese Academy of Sciences >>> {'China'}
+
+Shenzhen Institute of Artificial Intelligence and Robotics for Society >>> {'China'}
+
+The University of Hong Kong (HKU) >>> {'China'}
+
+East China Normal University >>> {'China'}
+
+Xi'an Jiaotong-Liverpool University >>> {'China'}
+
+State Key Laboratory of Information Security >>> {'China'}
+
+Sun Yat-Sen University >>> {'China'}
+
+University of Nottingham Ningbo >>> {'China'}
+
+China Telecom BestPay Coompany Ltd. >>> {'China'}
+
+The Hong Kong University of Science and Technology >>> {'China'}
+
+Baidu >>> {'China'}
+
+Peking University Shenzhen Graduate School >>> {'China'}
+
+Huawei Can >>> {'China'}
+
+Northwestern Polytechnical University >>> {'China'}
+
+University of Chinese Acadamy of Sciences (UCAS) >>> {'China'}
+
+Chinese Academy of Sciences >>> {'China'}
+
+Chinese Academy and Sciences >>> {'China'}
+
+Huazhong University of Science & Technology >>> {'China'}
+
+Institute for Network Sciences and Cyberspace >>> {'China'}
+
+ByteDance AI Lab >>> {'China'}
+
+Xi'an Jiaotong University >>> {'China'}
+
+Chongqing University of Posts and Telecommunications >>> {'China'}
+
+Anhui University >>> {'China'}
+
+Wuhan University of Science and Technology >>> {'China'}
+
+Beijing Key Laboratory for Network-based Cooperative Air Traffic Management >>> {'China'}
+
+Nanjing University Department of Computer Science and Technology >>> {'China'}
+
+Nanjing University of Posts and Telecommunications >>> {'China'}
+
+BoyunVision Technology Co. >>> {'China'}
+
+Westone Cryptologic Research Center >>> {'China'}
+
+Henan University of Technology >>> {'China'}
+
+City University of Macau >>> {'China'}
+
+Huaqiao University >>> {'China'}
+
+Nanjing University of Information Science & Technology >>> {'China'}
+
+Jiangsu University >>> {'China'}
+
+Wuhan Polytechnic University >>> {'China'}
+
+Ordnance Engineering College >>> {'China'}
+
+Intel China Research Center Limited >>> {'China'}
+
+Qingdao University >>> {'China'}
+
+Science and Technology on Communication Security Laboratory >>> {'China'}
+
+Hong Kong University of Science and Technology >>> {'China'}
+
+Sun Yat-sen University >>> {'China'}
+
+Harbin Engineering University >>> {'China'}
+
+Beijing Institute of Technology >>> {'China'}
+
+Huawei >>> {'China'}
+
+Chongqing University >>> {'China'}
+
+Nanjing Marine Radar Institute >>> {'China'}
+
+Beijing Key Laboratory of Mobile Computing and Pervasive Device >>> {'China'}
+
+Shandong University >>> {'China'}
+
+Pudong CS&S Co. >>> {'China'}
+
+University of Science and Technology of China >>> {'China'}
+
+Guizhou University >>> {'China'}
+
+University of Electronic Science and Technology of China >>> {'China'}
+
+Xi'an Jiao Tong University >>> {'China'}
+
+Nankai University >>> {'China'}
+
+Shanghai University >>> {'China'}
+
+State Key Lab of Information Security (DCS Center) >>> {'China'}
+
+Network Emergency Response Technical Team/Coordination Center >>> {'China'}
+
+Renren Inc. >>> {'China'}
+
+National Research Center of Fundamental Software >>> {'China'}
+
+Nanjing University of Information Science and Technology >>> {'China'}
+
+Renmin University of China >>> {'China'}
+
+Fujian Normal University >>> {'China'}
+
+Nanjing University of Posts and Telecommunication >>> {'China'}
+
+Beijing Electronic Science and Technology Institute >>> {'China'}
+
+Beijing University of Technology >>> {'China'}
+
+The Chinese University of Hong Kong >>> {'China'}
+
+Cixi Institute of Biomedical Engineering >>> {'China'}
+
+Fudan University >>> {'China'}
+
+Huawei Technologies >>> {'China'}
+
+Zhejiang University >>> {'China'}
+
+Xi'an Jiaotong Liverpool University >>> {'China'}
+
+State Key Laboratory of Computer Architecture >>> {'China'}
+
+Alibaba Inc. >>> {'China'}
+
+Guangzhou University >>> {'China'}
+
+Wuhan University >>> {'China'}
+
+South China University of Technology >>> {'China'}
+
+Xinyang Normal University >>> {'China'}
+
+University of Science and Technology >>> {'China'}
+
+Micro Innovation Integrated Circuit Design >>> {'China'}
+
+Hong Kong University of Science and Technology (HKUST) >>> {'China'}
+
+Institute of Information Engineering >>> {'China'}
+
+Institute of Software Chinese Academy of Sciences >>> {'China'}
+
+University of Macau >>> {'China'}
+
+Huazhong University of Science and Technology >>> {'China'}
+
+Hebei University >>> {'China'}
+
+Central South University >>> {'China'}
+
+Sun Yat-sen (Zhongshan) University >>> {'China'}
+
+Beijing Forestry University >>> {'China'}
+
+National Computer Network Emergency Response Technical Team/Coordination Center of China >>> {'China'}
+
+Shanghai Jiao Tong University >>> {'China'}
+
+Xi'an University of Posts and Telecommunications >>> {'China'}
+
+Zhejiang University of Science and Technology >>> {'China'}
+
+China Aerodynamics Research and Development Center >>> {'China'}
+
+Hefei University of Technology >>> {'China'}
+
+Soochow University >>> {'China'}
+
+Faculty of Engineering >>> {'China'}
+
+Hubei Province Key Laboratory of Intelligent Information Processing and Real-time Industrial System >>> {'China'}
+
+Qilu University of Technology >>> {'China'}
+
+Alibaba Group >>> {'China'}
+
+Key Laboratory of Aerospace Information Security and Trusted Computing >>> {'China'}
+
+Guilin University of Electronic Technology >>> {'China'}
+
+Guangxi Normal University >>> {'China'}
+
+The Hong Kong Polytechnic University >>> {'China'}
+
+Sichuan University >>> {'China'}
+
+Nanjing University of Aeronautics and Astronautic >>> {'China'}
+
+The Institute of North Electronic Equipment >>> {'China'}
+
+Purple Mountain Laboratories >>> {'China'}
+
+Nanjing University >>> {'China'}
+
+Hebei University of Technology >>> {'China'}
+
+Southern University of Science and Technology >>> {'China'}
+
+China University of Petroleum >>> {'China'}
+
+South East University >>> {'China'}
+
+Nanjing University of Aeronautics and Astronautics >>> {'China'}
+
+Chuzhou University >>> {'China'}
+
+Beijing University of Posts and Telecommunications >>> {'China'}
+
+Northwest University of China >>> {'China'}
+
+South China Argicultural University >>> {'China'}
+
+Hong Kong Baptist University >>> {'China'}
+
+Macau University of Science and Technology >>> {'China'}
+
+Dalian University of Technology >>> {'China'}
+
+PingAn Technology >>> {'China'}
+
+CAS >>> {'China'}
+
+Tencent AI Lab >>> {'China'}
+
+Zhengzhou Institute of Information Science and Technology >>> {'China'}
+
+Peng Cheng Laboratory >>> {'China'}
+
+Donghua University >>> {'China'}
+
+Chinese Academy Sciences >>> {'China'}
+
+University of Chinese Academy of Sciences (UCAS) >>> {'China'}
+
+Alibaba AI Labs >>> {'China'}
+
+University of the Bundeswehr Munich >>> {'Germany'}
+
+Siemens >>> {'Germany'}
+
+Philipps University of Marburg >>> {'Germany'}
+
+Freie Universität Berlin >>> {'Germany'}
+
+University of Trier >>> {'Germany'}
+
+Karlsruhe Institute of Technology >>> {'Germany'}
+
+University of Duisburg-Essen >>> {'Germany'}
+
+Ruhr University of Bochum >>> {'Germany'}
+
+University of Bielefeld >>> {'Germany'}
+
+Universität Hamburg >>> {'Germany'}
+
+STRD >>> {'Germany'}
+
+fortiss GmbH >>> {'Germany'}
+
+Independent Centre for Privacy Protection Schleswig-Holstein >>> {'Germany'}
+
+University of Tübingen >>> {'Germany'}
+
+Technische Universität Ilmenau >>> {'Germany'}
+
+RWTH Aachen University >>> {'Germany'}
+
+Ruhr University >>> {'Germany'}
+
+Fraunhofer Research Institution for Applied and Integrated Security (AISEC) >>> {'Germany'}
+
+University of Augsburg >>> {'Germany'}
+
+Technical University of Munich >>> {'Germany'}
+
+Braunschweig University of Technology >>> {'Germany'}
+
+Technische Universität Darmstadt >>> {'Germany'}
+
+University of Hamburg >>> {'Germany'}
+
+Max Planck Institute for Software Systems (MPI-SWS) >>> {'Germany'}
+
+Otto-von-Guericke University Magdeburg >>> {'Germany'}
+
+TU-Darmstadt >>> {'Germany'}
+
+Max Planck Institute for the Science of Light >>> {'Germany'}
+
+Otto von Guericke University Magdeburg >>> {'Germany'}
+
+Huawei Technologies Düsseldorf GmbH >>> {'Germany'}
+
+University Hamburg >>> {'Germany'}
+
+Max Planck Institute for Intelligent Systems >>> {'Germany'}
+
+Friedrich-Alexander-Universität Erlangen-Nürnberg >>> {'Germany'}
+
+Heinrich Heine University Düsseldorf >>> {'Germany'}
+
+Technical University of Dortmund >>> {'Germany'}
+
+T-Systems GEI GmbH >>> {'Germany'}
+
+Max Planck Institute for Security and Privacy (MPI-SP) >>> {'Germany'}
+
+Technical University of Ingolstadt >>> {'Germany'}
+
+German Aerospace Center (DLR) >>> {'Germany'}
+
+Ruhr-University Bochum >>> {'Germany'}
+
+Johann Wolfgang Goethe-Universität Frankfurt am Main >>> {'Germany'}
+
+Hagen University >>> {'Germany'}
+
+GESIS >>> {'Germany'}
+
+Robert Bosch Smart Home GmbH >>> {'Germany'}
+
+University of Marburg >>> {'Germany'}
+
+Fraunhofer Institute for Secure Information Technology >>> {'Germany'}
+
+Mannheim University >>> {'Germany'}
+
+Sirrix AG Security Rechnologies >>> {'Germany'}
+
+Technischen Universität Cottbus >>> {'Germany'}
+
+University of Bonn >>> {'Germany'}
+
+University of Ulm >>> {'Germany'}
+
+Max Planck Institute for Software Systems >>> {'Germany'}
+
+University of Koblenz-Landau >>> {'Germany'}
+
+Underwriters Laboratories >>> {'Germany'}
+
+Bundesamt für Sicherheit in der Informationstechnik >>> {'Germany'}
+
+DZBANK AG >>> {'Germany'}
+
+Fraunhofer Institute for Intelligent Analysis and Information Systems (IAIS) >>> {'Germany'}
+
+Jülich Supercomputing Centre >>> {'Germany'}
+
+TU Clausthal >>> {'Germany'}
+
+Ruprecht Karls University of Heidelberg >>> {'Germany'}
+
+National Research Center for Applied Cybersecurity ATHENE >>> {'Germany'}
+
+Forschungszentrum Jülich >>> {'Germany'}
+
+Cyberus Technology GmbH >>> {'Germany'}
+
+zynamics GmbH >>> {'Germany'}
+
+University of Wuppertal >>> {'Germany'}
+
+FAW Research Institute for Applied Knowledge Processing >>> {'Germany'}
+
+Friedrich-Alexander University Erlangen-Nürnberg >>> {'Germany'}
+
+Bauhaus University >>> {'Germany'}
+
+Max Planck Institute for Informatics (MPII) >>> {'Germany'}
+
+Brandenburg University of Technology >>> {'Germany'}
+
+Hans Bredow Institute (HBI) >>> {'Germany'}
+
+TU München >>> {'Germany'}
+
+Gelsenkirchen University of Applied Sciences >>> {'Germany'}
+
+University of Potsdam >>> {'Germany'}
+
+SEW-EURODRIVE >>> {'Germany'}
+
+University of Stuttgart >>> {'Germany'}
+
+University of Bochum >>> {'Germany'}
+
+Hasso Plattner Institute >>> {'Germany'}
+
+Research Center L3S >>> {'Germany'}
+
+Ericsson Eurolab Deutschland GmbH >>> {'Germany'}
+
+Hochschule Schmalkalden >>> {'Germany'}
+
+Technische Universität München >>> {'Germany'}
+
+Johannes Gutenberg University Mainz >>> {'Germany'}
+
+Dresden University of Technology >>> {'Germany'}
+
+NEC Labs Europe >>> {'Germany'}
+
+University of Hildesheim >>> {'Germany'}
+
+Hochschule Trier >>> {'Germany'}
+
+CISPA Helmholtz Center for Information Security >>> {'Germany'}
+
+TU Munich >>> {'Germany'}
+
+University of Passau >>> {'Germany'}
+
+Technical University of Braunschweig >>> {'Germany'}
+
+Fraunhofer-Institut für sichere Informationstechnologie SIT >>> {'Germany'}
+
+TU Ilmenau >>> {'Germany'}
+
+University of Dortmund >>> {'Germany'}
+
+CISPA >>> {'Germany'}
+
+Westphalia University of Applied Sciences Gelsenkirchen >>> {'Germany'}
+
+University of Essen >>> {'Germany'}
+
+High Performance Computing Center >>> {'Germany'}
+
+University of Applied Sciences Wiesbaden >>> {'Germany'}
+
+Ulm University >>> {'Germany'}
+
+SAP Research Karlsruhe >>> {'Germany'}
+
+NetApp Deutschland GmbH >>> {'Germany'}
+
+Ludwig Maximilians University Munich >>> {'Germany'}
+
+SMF Team >>> {'Germany'}
+
+Max-Planck Institute for Security and Privacy >>> {'Germany'}
+
+University of Osnabrück >>> {'Germany'}
+
+Fraunhofer IGD >>> {'Germany'}
+
+Fraunhofer-Institut für Entwurfstechnik Mechatronik >>> {'Germany'}
+
+Universität Siegen >>> {'Germany'}
+
+Fraunhofer Institute for Production Technology (IPT) >>> {'Germany'}
+
+Hamburg-Harburg University of Technology >>> {'Germany'}
+
+University of Hagen >>> {'Germany'}
+
+Fraunhofer FKIE >>> {'Germany'}
+
+Otto von Guericke University of Magdeburg >>> {'Germany'}
+
+Hamburg University >>> {'Germany'}
+
+Goethe University Frankfurt >>> {'Germany'}
+
+Friedrich-Alexander Universität Erlangen-Nürnberg >>> {'Germany'}
+
+SAP Karlsruhe >>> {'Germany'}
+
+Hochschule für Angewandte Wissenschaften Hamburg >>> {'Germany'}
+
+TU Dortmund >>> {'Germany'}
+
+Brandenburg University of Applied Sciences >>> {'Germany'}
+
+Schaeffler Technologies AG & Co KG >>> {'Germany'}
+
+Max Planck Institute for Security and Privacy >>> {'Germany'}
+
+Institute of Computer Science >>> {'Germany'}
+
+Friedrich Alexander University of Erlangen-Nürnberg >>> {'Germany'}
+
+CISPA - Helmholtz-Zentrum für Informationssicherheit gGmbH >>> {'Germany'}
+
+Hasso-Plattner-Institute >>> {'Germany'}
+
+University of Bremen >>> {'Germany'}
+
+FU Berlin >>> {'Germany'}
+
+Leibniz Supercomputing Centre >>> {'Germany'}
+
+DOCOMO Euro-Labs >>> {'Germany'}
+
+Paderborn University >>> {'Germany'}
+
+IHP GmbH - Leibniz Institute for Innovations for High Performance Microelectronics >>> {'Germany'}
+
+Hamburg University of Technology >>> {'Germany'}
+
+University Göttingen >>> {'Germany'}
+
+High Performance Computing Center Stuttgart (HLRS) >>> {'Germany'}
+
+Goethe University of Frankfurt >>> {'Germany'}
+
+University of Hannover >>> {'Germany'}
+
+University of Heidelberg >>> {'Germany'}
+
+Max-Planck-Institut für Informatik >>> {'Germany'}
+
+University of Karlsruhe >>> {'Germany'}
+
+Karlsruhe Institute of Technology (KIT) >>> {'Germany'}
+
+Humboldt-Universität zu Berlin >>> {'Germany'}
+
+TU Kaiserslautern >>> {'Germany'}
+
+University of Würzburg >>> {'Germany'}
+
+Bundeswehr University Munich >>> {'Germany'}
+
+University of Darmstadt >>> {'Germany'}
+
+SAP Research >>> {'Germany'}
+
+Technical University Munich >>> {'Germany'}
+
+Leibniz University Hannover >>> {'Germany'}
+
+AV-TEST >>> {'Germany'}
+
+Georg August University Göttingen >>> {'Germany'}
+
+Leibniz University of Hannover. Germany >>> {'Germany'}
+
+Heinrich Heine University of Düsseldorf >>> {'Germany'}
+
+University of Kaiserslautern >>> {'Germany'}
+
+Brandenburg University of Technology Cottbus >>> {'Germany'}
+
+Leibniz University of Hannover >>> {'Germany'}
+
+Helmholtz Center for Information Security (CISPA) >>> {'Germany'}
+
+Ludwig-Maximilians-Universität München >>> {'Germany'}
+
+Hochschule Darmstadt >>> {'Germany'}
+
+Hochschule Bonn-Rhein-Sieg >>> {'Germany'}
+
+Telekom Innovation Laboratories >>> {'Germany'}
+
+Universität Erlangen-Nürnberg >>> {'Germany'}
+
+Independent researcher >>> {'Germany'}
+
+University Bonn >>> {'Germany'}
+
+TU Darmstadt >>> {'Germany'}
+
+Fraunhofer Institute for Toxicology and Experimental Medicine (ITEM) >>> {'Germany'}
+
+Munich University of Applied Sciences >>> {'Germany'}
+
+University of Münster >>> {'Germany'}
+
+Schloss Dagstuhl - Leibniz Center for Informatics >>> {'Germany'}
+
+University of Applied Sciences and Arts Hannover >>> {'Germany'}
+
+Fulda University of Applied Science >>> {'Germany'}
+
+Darmstadt University of Technology >>> {'Germany'}
+
+Fraunhofer Institute for Open Communication Systems (FOKUS) >>> {'Germany'}
+
+Fraunhofer Institute for Communication >>> {'Germany'}
+
+Deutsche Telekom Laboratories >>> {'Germany'}
+
+University of Regensburg >>> {'Germany'}
+
+University of Mannheim >>> {'Germany'}
+
+Leibniz Universität Hannover >>> {'Germany'}
+
+University of Siegen >>> {'Germany'}
+
+LMU Munich >>> {'Germany'}
+
+Fraunhofer Institute for Applied and Integrated Security (AISEC) >>> {'Germany'}
+
+Institute for Telematics >>> {'Germany'}
+
+Aalen University >>> {'Germany'}
+
+German Research Center for Artificial Intelligence (DFKI) >>> {'Germany'}
+
+Ruhr University Bochum >>> {'Germany'}
+
+Goethe Universität Frankfurt >>> {'Germany'}
+
+Dortmund University of Technology >>> {'Germany'}
+
+University of Göttingen >>> {'Germany'}
+
+Technische Universität Hamburg (TUHH) >>> {'Germany'}
+
+Friedrich Alexander University of Erlangen-Nuremberg >>> {'Germany'}
+
+University of Konstanz >>> {'Germany'}
+
+RWTH Aachen >>> {'Germany'}
+
+University of Rostock >>> {'Germany'}
+
+Universität Stuttgart >>> {'Germany'}
+
+Physikalisch-Technische Bundesanstalt (PTB) >>> {'Germany'}
+
+Trier University of Applied Sciences >>> {'Germany'}
+
+University of Erlangen-Nuremberg >>> {'Germany'}
+
+Fortiss >>> {'Germany'}
+
+Carl von Ossietzky University of Oldenburg >>> {'Germany'}
+
+Hochschule Offenburg >>> {'Germany'}
+
+Leuphana University Lüneburg >>> {'Germany'}
+
+Saarbrücken >>> {'Germany'}
+
+Ruhr-Universität Bochum >>> {'Germany'}
+
+Kaiserslautern University of Technology >>> {'Germany'}
+
+Fraunhofer SIT >>> {'Germany'}
+
+Ilmenau University of Technology >>> {'Germany'}
+
+TU Braunschweig >>> {'Germany'}
+
+Federal Office for Information Security (BSI) >>> {'Germany'}
+
+University of Paderborn >>> {'Germany'}
+
+TU Berlin >>> {'Germany'}
+
+Technical University of Darmstadt >>> {'Germany'}
+
+University of Bamberg >>> {'Germany'}
+
+University of Kassel >>> {'Germany'}
+
+Ludwig Maximilian University of Munich >>> {'Germany'}
+
+Max Planck Institute for Informatics >>> {'Germany'}
+
+TU Dresden >>> {'Germany'}
+
+Fraunhofer Institute for Secure Information Technology (SIT) >>> {'Germany'}
+
+University of Federal Armed Forces Munich >>> {'Germany'}
+
+Heidelberg University >>> {'Germany'}
+
+Technical University of Berlin >>> {'Germany'}
+
+Free University of Berlin >>> {'Germany'}
+
+Dresdner Bank AG >>> {'Germany'}
+
+Universität des Saarlandes >>> {'Germany'}
+
+Max Planck Institute for Computer Science >>> {'Germany'}
+
+Fraunhofer Gesellschaft >>> {'Germany'}
+
+PACE Aerospace Engineering and Information Technology GmbH >>> {'Germany'}
+
+Universität Bayreuth >>> {'Germany'}
+
+Hochschule Bremerhaven >>> {'Germany'}
+
+Julius Maximilians University Würzburg >>> {'Germany'}
+
+Goethe University Frankfurt am Main >>> {'Germany'}
+
+Technical University Berlin >>> {'Germany'}
+
+German Climate Computing Center (DKRZ) >>> {'Germany'}
+
+Ludwig-Maximilians-Universität >>> {'Germany'}
+
+Humboldt University of Berlin >>> {'Germany'}
+
+University of Kiel >>> {'Germany'}
+
+Techical University of Kaiserslautern >>> {'Germany'}
+
+University of Lübeck >>> {'Germany'}
+
+University of Technology Chemnitz-Zwickau >>> {'Germany'}
+
+Saarland University >>> {'Germany'}
+
+Deggendorf Institute of Technology >>> {'Germany'}
+
+University of Freiburg >>> {'Germany'}
+
+SAP >>> {'Germany'}
+
+University of Campinas (UNICAMP) >>> {'Brazil'}
+
+Federal University of Campina Grande >>> {'Brazil'}
+
+Universidade Federal do Rio Grande >>> {'Brazil'}
+
+University of Campinas >>> {'Brazil'}
+
+Federal University of Rio Grande do Sul (UFRGS) >>> {'Brazil'}
+
+Federal University of Rio Grande do Sul >>> {'Brazil'}
+
+Federal University of Santa Catarina >>> {'Brazil'}
+
+State University of Campinas >>> {'Brazil'}
+
+Federal University of Rio Grande >>> {'Brazil'}
+
+Federal University of Pará >>> {'Brazil'}
+
+Pontifical Catholic University of Rio de Janeiro >>> {'Brazil'}
+
+Federal Institute of Education >>> {'Brazil'}
+
+Federal University of Minas Gerais >>> {'Brazil'}
+
+Universidade Federal do Agreste de Pernambuco >>> {'Brazil'}
+
+Pontifical Catholic University of Rio Grande do Sul >>> {'Brazil'}
+
+Federal University of Bahia >>> {'Brazil'}
+
+University of Brasília >>> {'Brazil'}
+
+IMPA >>> {'Brazil'}
+
+Federal University of Pernambuco >>> {'Brazil'}
+
+Federal University of Paraná >>> {'Brazil'}
+
+Universidade Federal de Campina Grande >>> {'Brazil'}
+
+Federal University of Goiás >>> {'Brazil'}
+
+Federal University of Parana >>> {'Brazil'}
+
+Federal Institute of Alagoas >>> {'Brazil'}
+
+Federal University of Uberlândia >>> {'Brazil'}
+
+University of São Paulo >>> {'Brazil'}
+
+University of Sao Paulo >>> {'Brazil'}
+
+Universidade Estadual de Campinas >>> {'Brazil'}
+
+Polytechnic University of Catalonia >>> {'Spain'}
+
+University of Malaga >>> {'Spain'}
+
+University of Deusto >>> {'Spain'}
+
+Charles III University of Madrid >>> {'Spain'}
+
+IMDEA Software Institute >>> {'Spain'}
+
+University of Granada >>> {'Spain'}
+
+Universidad de Zaragoza >>> {'Spain'}
+
+ICREA >>> {'Spain'}
+
+University of Murcia >>> {'Spain'}
+
+Technical University of Madrid >>> {'Spain'}
+
+Jaume I University >>> {'Spain'}
+
+Technical University of Catalonia >>> {'Spain'}
+
+University of Málaga >>> {'Spain'}
+
+Open University of Catalonia >>> {'Spain'}
+
+University of Navarra >>> {'Spain'}
+
+Telefónica >>> {'Spain'}
+
+King Juan Carlos University >>> {'Spain'}
+
+University of Zaragoza >>> {'Spain'}
+
+Escuela Universitaria de Informatica >>> {'Spain'}
+
+Barcelona Supercomputing Center >>> {'Spain'}
+
+Rovira i Virgili University >>> {'Spain'}
+
+Universidad Politécnica de Madrid >>> {'Spain'}
+
+Polytechnic University of Valencia >>> {'Spain'}
+
+University Carlos III de Madrid >>> {'Spain'}
+
+Autonomous University of Barcelone (UAB) >>> {'Spain'}
+
+Universitat Pompeu Fabra >>> {'Spain'}
+
+Consejo Superior de Investigaciones Cientificas >>> {'Spain'}
+
+University of the Balearic Islands >>> {'Spain'}
+
+University of Seville >>> {'Spain'}
+
+Institute IMDEA Networks >>> {'Spain'}
+
+Universidad Carlos III de Madrid >>> {'Spain'}
+
+Universidad Rey Juan Carlos >>> {'Spain'}
+
+Spanish National Research Council (CSIC) >>> {'Spain'}
+
+Complutense University of Madrid >>> {'Spain'}
+
+University of Vigo >>> {'Spain'}
+
+Spanish National Research Council >>> {'Spain'}
+
+Telefonica Research >>> {'Spain'}
+
+Technical University of Valencia >>> {'Spain'}
+
+TECNUN University of Navarra >>> {'Spain'}
+
+Polytechnic University of Catalonia (UPC) >>> {'Spain'}
+
+Madrid Institute of Advanced Studies in Software Development Technology (IMDEA Software Institute) >>> {'Spain'}
+
+Edificio IMDEA Software >>> {'Spain'}
+
+Carlos III University >>> {'Spain'}
+
+IMDEA Software >>> {'Spain'}
+
+University of Rovira i Virgili >>> {'Spain'}
+
+Autonomous University of Barcelona >>> {'Spain'}
+
+Telefonica Research Barcelona >>> {'Spain'}
+
+Pompeu Fabra University >>> {'Spain'}
+
+Universitat Autònoma de Barcelona >>> {'Spain'}
+
+University of Castilla-La Mancha >>> {'Spain'}
+
+Universitat Rovira i Virgili >>> {'Spain'}
+
+Certicom Research >>> {'Canada'}
+
+University of Guelph >>> {'Canada'}
+
+Université de Montréal >>> {'Canada'}
+
+University of Windsor >>> {'Canada'}
+
+University of Manitoba >>> {'Canada'}
+
+University of Victoria >>> {'Canada'}
+
+Laval University >>> {'Canada'}
+
+Algonquin College of Applied Arts and Technology >>> {'Canada'}
+
+Wilfrid Laurier University >>> {'Canada'}
+
+The University of Waterloo >>> {'Canada'}
+
+Ryerson University >>> {'Canada'}
+
+National Research Council (NRC) of Canada >>> {'Canada'}
+
+École de Technologie Supérieure (ÉTS) >>> {'Canada'}
+
+University of Sherbrooke >>> {'Canada'}
+
+Dalhousie University >>> {'Canada'}
+
+National Research Council Canada >>> {'Canada'}
+
+University of Western Ontario >>> {'Canada'}
+
+Facebook AI Research >>> {'Canada'}
+
+Simon Fraser University >>> {'Canada'}
+
+Institute for Information Systems Engineering >>> {'Canada'}
+
+Université du Québec en Outaouais (UQO) >>> {'Canada'}
+
+University of Waterloo >>> {'Canada'}
+
+ÉTS Montréal >>> {'Canada'}
+
+Concordia Institute for Information Systems Engineering >>> {'Canada'}
+
+University of Toronto >>> {'Canada'}
+
+University of Ontario Institute of Technology >>> {'Canada'}
+
+Memorial University of Newfoundland >>> {'Canada'}
+
+University of Waterloo (Inst. f. Quantum Computing) >>> {'Canada'}
+
+Lakehead University >>> {'Canada'}
+
+Polytechnique Montréal >>> {'Canada'}
+
+University of Ottawa >>> {'Canada'}
+
+Faculty of Computer Science >>> {'Canada'}
+
+Cybersecurity >>> {'Canada'}
+
+Université du Québec à Chicoutimi >>> {'Canada'}
+
+McMaster University >>> {'Canada'}
+
+McGill University >>> {'Canada'}
+
+The University of Western Ontario >>> {'Canada'}
+
+University of Québec >>> {'Canada'}
+
+University of Alberta >>> {'Canada'}
+
+York University >>> {'Canada'}
+
+University of British Columbia >>> {'Canada'}
+
+Alcatel >>> {'Canada'}
+
+Concordia University >>> {'Canada'}
+
+University of New Brunswick >>> {'Canada'}
+
+Polytechnique Montreal >>> {'Canada'}
+
+Carleton University >>> {'Canada'}
+
+University of Calgary >>> {'Canada'}
+
+Ontario Tech University >>> {'Canada'}
+
+Huawei Technologies Inc. >>> {'Canada'}
+
+University of Regina >>> {'Canada'}
+
+University of Lugano >>> {'Switzerland'}
+
+ETZ Zurich >>> {'Switzerland'}
+
+University of Basel >>> {'Switzerland'}
+
+Oracle Software >>> {'Switzerland'}
+
+IBM Research Zurich >>> {'Switzerland'}
+
+IBM Research Division >>> {'Switzerland'}
+
+HESSO University of Applied Sciences and Arts Western Switzerland >>> {'Switzerland'}
+
+University of Applied Sciences and Arts of Southern Switzerland >>> {'Switzerland'}
+
+DFINITY >>> {'Switzerland'}
+
+Faculty of Basic Sciences >>> {'Switzerland'}
+
+Concordium >>> {'Switzerland'}
+
+University of Zurich >>> {'Switzerland'}
+
+Università della Svizzera italiana (USI) >>> {'Switzerland'}
+
+Web3 Foundation >>> {'Switzerland'}
+
+University of Applied Sciences Western Switzerland >>> {'Switzerland'}
+
+University of Bern >>> {'Switzerland'}
+
+University of Neuchatel >>> {'Switzerland'}
+
+University of Geneva >>> {'Switzerland'}
+
+ETH Zürich >>> {'Switzerland'}
+
+Swiss Federal Institute of Technology in Lausanne (EPFL) >>> {'Switzerland'}
+
+Swiss Federal Institute of Technology in Lausanne >>> {'Switzerland'}
+
+EFPL >>> {'Switzerland'}
+
+University of St. Gallen (HSG) >>> {'Switzerland'}
+
+Università della Svizzera Italiana >>> {'Switzerland'}
+
+Informal Systems >>> {'Switzerland'}
+
+Google Switzerland >>> {'Switzerland'}
+
+Università della Svizzera Italiana (USI) >>> {'Switzerland'}
+
+University of Lausanne >>> {'Switzerland'}
+
+University of Neuchâtel >>> {'Switzerland'}
+
+Lysis SA >>> {'Switzerland'}
+
+ETH Zurich >>> {'Switzerland'}
+
+EPFL Lausanne >>> {'Switzerland'}
+
+Université de Neuchâtel >>> {'Switzerland'}
+
+Swiss Federal Institute of Technology >>> {'Switzerland'}
+
+optimyze.cloud >>> {'Switzerland'}
+
+IBM Zurich Research Laboratory >>> {'Switzerland'}
+
+FH Aargau >>> {'Switzerland'}
+
+Oracle Labs >>> {'Australia', 'Switzerland'}
+
+Fachhochschule Nordwestschweiz >>> {'Switzerland'}
+
+EPFL >>> {'Switzerland'}
+
+Siemens AG >>> {'Switzerland'}
+
+Zurich University of Applied Sciences (ZHAW) >>> {'Switzerland'}
+
+EPF Lausanne >>> {'Switzerland'}
+
+École Polytechnique Fédérale de Lausanne (EPFL) >>> {'Switzerland'}
+
+FHS Sankt Gallen Hochschule für Angewandte Wissenschaften >>> {'Switzerland'}
+
+A*Star >>> {'Singapore'}
+
+A-STAR >>> {'Singapore'}
+
+School of Electrical and Electronic Engineering >>> {'Singapore'}
+
+Singapore University of Technology and Design >>> {'Singapore'}
+
+Singapore University of Technology >>> {'Singapore'}
+
+Sutajio Ko-Usagi Pte Ltd. >>> {'Singapore'}
+
+National University of Singapore >>> {'Singapore'}
+
+Nanyang Technological University (NTU) >>> {'Singapore'}
+
+Institute for Infocomm Research >>> {'Singapore'}
+
+Huawei Technologies Pte Ltd >>> {'Singapore'}
+
+Chibitronics >>> {'Singapore'}
+
+NUS-Singtel Cyber Security Lab >>> {'Singapore'}
+
+NUS-Singtel Cyber Security Research and Development Laboratory >>> {'Singapore'}
+
+National University of Singapore (NUS) >>> {'Singapore'}
+
+Nanyang Technological University >>> {'Singapore'}
+
+Advanced Digital Sciences Center >>> {'Singapore'}
+
+School of Computing >>> {'Singapore'}
+
+Agency for Science >>> {'Singapore'}
+
+Singapore Management University >>> {'Singapore'}
+
+Singapore University of Technology and Design (SUTD) >>> {'Singapore'}
+
+AIT Austrian Institute of Technology >>> {'Austria'}
+
+NXP Semiconductors >>> {'Belgium', 'Austria'}
+
+Austrian Institute of Technology >>> {'Austria'}
+
+SBA Research >>> {'Austria'}
+
+Know-Center GmbH >>> {'Austria'}
+
+Medical University of Vienna >>> {'Austria'}
+
+Universität Klagenfurt >>> {'Austria'}
+
+Johannes Kepler University of Linz >>> {'Austria'}
+
+AVL List GmbH >>> {'Austria'}
+
+Software Competence Center Hagenberg >>> {'Austria'}
+
+NFC Research Lab Hagenberg >>> {'Austria'}
+
+Institute of Sciente and Technology >>> {'Austria'}
+
+Alpen-Adria University >>> {'Austria'}
+
+TW Wien >>> {'Austria'}
+
+TU Graz >>> {'Austria'}
+
+TU Wien >>> {'Austria'}
+
+Johannes Kepler University Linz >>> {'Austria'}
+
+University of Salzburg >>> {'Austria'}
+
+Vienna University of Economics and Business >>> {'Austria'}
+
+Austrian Academy of Sciences >>> {'Austria'}
+
+University of Linz >>> {'Austria'}
+
+University of Klagenfurt >>> {'Austria'}
+
+Private University for Health Sciences >>> {'Austria'}
+
+FH St. Pölten >>> {'Austria'}
+
+Xylem Technologies GmbH >>> {'Austria'}
+
+TTTech Computertechnik AG >>> {'Austria'}
+
+Technical University of Vienna >>> {'Austria'}
+
+Johannes Kepler University >>> {'Austria'}
+
+Paracelsus Medical University >>> {'Austria'}
+
+IST Austria >>> {'Austria'}
+
+Institute of Science and Technology Austria >>> {'Austria'}
+
+Complexity Science Hub Vienna >>> {'Austria'}
+
+University of Vienna >>> {'Austria'}
+
+University of Innsbruck >>> {'Austria'}
+
+Graz University of Technology >>> {'Austria'}
+
+University of Applied Sciences Upper Austria >>> {'Austria'}
+
+Kepler University of Linz >>> {'Austria'}
+
+Vienna University of Technology >>> {'Austria'}
+
+Riscure Security Lab >>> {'Netherlands'}
+
+National Research Institute for Mathematics and Computer Science >>> {'Netherlands'}
+
+Mircosoft >>> {'Netherlands'}
+
+TU Delft >>> {'Netherlands'}
+
+VU University Amsterdam >>> {'Netherlands'}
+
+Delft University of Technology >>> {'Netherlands'}
+
+Free University of Amsterdam >>> {'Netherlands'}
+
+Eindhoven University of Technology >>> {'Netherlands'}
+
+Belgium Brightsight BV >>> {'Netherlands'}
+
+CWI Amsterdam >>> {'Netherlands'}
+
+Digital Security Group >>> {'Netherlands'}
+
+Maastricht University >>> {'Netherlands'}
+
+Netherlands Organisation for Applied Scientific Research (TNO) >>> {'Netherlands'}
+
+Philips Research >>> {'Netherlands'}
+
+CWI >>> {'Netherlands'}
+
+Technische Universiteit Eindhoven >>> {'Netherlands'}
+
+University of Delft >>> {'Netherlands'}
+
+Centrum Wiskunde en Informatica (CWI) >>> {'Netherlands'}
+
+QuSoft >>> {'Netherlands'}
+
+VU Amsterdam >>> {'Netherlands'}
+
+Utrecht University >>> {'Netherlands'}
+
+Philips Research Europe >>> {'Netherlands'}
+
+NATO Communications and Information Agency >>> {'Netherlands'}
+
+Radboud University >>> {'Netherlands'}
+
+Technical University of Eindhoven >>> {'Netherlands'}
+
+Radbound University >>> {'Netherlands'}
+
+Twente University >>> {'Netherlands'}
+
+University of Amsterdam >>> {'Netherlands'}
+
+TU Eindhoven >>> {'Netherlands'}
+
+European Space Agency >>> {'Netherlands'}
+
+University of Nijmegen >>> {'Netherlands'}
+
+University of Twente >>> {'Netherlands'}
+
+Einghoven University of Technology >>> {'Netherlands'}
+
+Open University of the Netherlands >>> {'Netherlands'}
+
+Tilburg University >>> {'Netherlands'}
+
+Centrum Wiskunde & Informatica >>> {'Netherlands'}
+
+Vrije Universiteit Amsterdam >>> {'Netherlands'}
+
+Radboud University Nijmegen >>> {'Netherlands'}
+
+Unitec Institute of Technology >>> {'New Zealand'}
+
+Auckland University of Technology >>> {'New Zealand'}
+
+The University of Auckland >>> {'New Zealand'}
+
+Massey University >>> {'New Zealand'}
+
+University of Canterbury >>> {'New Zealand'}
+
+Victoria University of Wellington >>> {'New Zealand'}
+
+University of Otago >>> {'New Zealand'}
+
+University of Waikato >>> {'New Zealand'}
+
+Dept. of Information Systems & Operations Management >>> {'New Zealand'}
+
+Cyprus University of Technology >>> {'Cyprus'}
+
+Frederick University >>> {'Cyprus'}
+
+University of Cyprus >>> {'Cyprus'}
+
+International Institute of Information Technology Bangalore >>> {'India'}
+
+Galgotias University >>> {'India'}
+
+Indian Institute of Technology Guwahati >>> {'India'}
+
+Thapar University >>> {'India'}
+
+National Institute of Technology Karnataka >>> {'India'}
+
+Tata Consultancy Services (TCS) >>> {'India'}
+
+International Institute of Information Technology Hyderabad >>> {'India'}
+
+IIIT Bangalore >>> {'India'}
+
+International Institute of Information Technology Bangalore (IIITB) >>> {'India'}
+
+Department of Electrical Engineering >>> {'India'}
+
+ERNET >>> {'India'}
+
+IIT Delhi >>> {'India'}
+
+IIT Madras >>> {'India'}
+
+GM >>> {'India'}
+
+Indian Institute of Science >>> {'India'}
+
+IIITB >>> {'India'}
+
+Indian Institute of Technology (Banaras Hindu University) >>> {'India'}
+
+Indian Institute of Technology (IIT) Kharagpur >>> {'India'}
+
+IIT >>> {'India'}
+
+Indian Institue of Technology Bombay >>> {'India'}
+
+Indraprastha Institute of Information Technology (IIIT-D) >>> {'India'}
+
+IIT Kharagpur >>> {'India'}
+
+Indian Institute of Technology at Gandhinagar >>> {'India'}
+
+K L University >>> {'India'}
+
+Indraprastha Institute of Information Technology >>> {'India'}
+
+Microsoft Research India >>> {'India'}
+
+Birla Institute of Technology and Science Pilani >>> {'India'}
+
+Guru Nanak Engineering College >>> {'India'}
+
+Indian Institute of Technology Delhi >>> {'India'}
+
+Indian Institute of Science Education and Research Bhopal >>> {'India'}
+
+IBM India Research Lab >>> {'India'}
+
+Institute of Mathematical Sciences (IMSc) >>> {'India'}
+
+National Institute of Technology >>> {'India'}
+
+University of Mysore >>> {'India'}
+
+Indian Institute of Technology >>> {'India'}
+
+PES Institute of Technology >>> {'India'}
+
+Indian Institute of Technology Kanpur >>> {'India'}
+
+Indian Institute of Technology Madras >>> {'India'}
+
+University of Delhi >>> {'India'}
+
+Institute for Advancing Intelligence >>> {'India'}
+
+Tata Consultancy Services >>> {'India'}
+
+Jadavpur University >>> {'India'}
+
+TCS Innovation Labs >>> {'India'}
+
+Indian Institute of Technology Patna >>> {'India'}
+
+Indian Institute of Engineering Science and Technology Shibpur >>> {'India'}
+
+Birla Institute of Technology and Science - Pilani >>> {'India'}
+
+National Institute of Technology Rourkela >>> {'India'}
+
+University of Kerala >>> {'India'}
+
+Indian Institute of Technology Indore >>> {'India'}
+
+Director of IIT Hyderabad >>> {'India'}
+
+TCS Innovation Labs - TRDDC >>> {'India'}
+
+C. V. Raman College of Engineering >>> {'India'}
+
+Indian Institute of Technology Delhi (IIT Delhi) >>> {'India'}
+
+Indian Institute of Technology Kharagpur >>> {'India'}
+
+IBM India Systems and Technology Laboratory >>> {'India'}
+
+IBM Research India >>> {'India'}
+
+Tata Institute of Fundamental Research >>> {'India'}
+
+Indian Institute of Technology Palakkad >>> {'India'}
+
+Goldman Sachs India >>> {'India'}
+
+Xerox Research Center India >>> {'India'}
+
+Indian Institute of Technology Madras (IITM) >>> {'India'}
+
+Indian Statistical Institute >>> {'India'}
+
+IIIT Hyderabad >>> {'India'}
+
+Samsung R&D Institute >>> {'India'}
+
+Indian Institute of Technology (BHU) Varanasi >>> {'India'}
+
+Communications Laboratory Japan >>> {'Japan'}
+
+Tohoku University >>> {'Japan'}
+
+Iwate Prefectural University >>> {'Japan'}
+
+Ibaraki University >>> {'Japan'}
+
+Akashi Technological College >>> {'Japan'}
+
+Toyohashi University of Technology >>> {'Japan'}
+
+NTT Secure Platform Labs. / Waseda University >>> {'Japan'}
+
+Japan Information Processing Developing Center >>> {'Japan'}
+
+Hiroshima University >>> {'Japan'}
+
+Kyushu University >>> {'Japan'}
+
+NTT DOCOMO INC. >>> {'Japan'}
+
+University of Hyogo >>> {'Japan'}
+
+Momentum Engineering Inc. >>> {'Japan'}
+
+Tsuda University >>> {'Japan'}
+
+University of Electro-Communications >>> {'Japan'}
+
+Meiji University >>> {'Japan'}
+
+Tokyo Institute of Technology >>> {'Japan'}
+
+University of Aizu >>> {'Japan'}
+
+Chuo University >>> {'Japan'}
+
+NEC >>> {'Japan'}
+
+Yokohama National University >>> {'Japan'}
+
+RIKEN Center for Advanced Intelligence >>> {'Japan'}
+
+Akita Prefectural University >>> {'Japan'}
+
+Tokyo Denki University >>> {'Japan'}
+
+NEC Corporation >>> {'Japan'}
+
+National Institute of Information and Communications Technology (NICT) >>> {'Japan'}
+
+JAIST >>> {'Japan'}
+
+Security Fundamentals Laboratory >>> {'Japan'}
+
+Nagoya University >>> {'Japan'}
+
+University of Tohoku >>> {'Japan'}
+
+KDDI Research >>> {'Japan'}
+
+University of Tsukuba >>> {'Japan'}
+
+IBM Tokyo Research Laboratory >>> {'Japan'}
+
+IVS Technology Promotion Council >>> {'Japan'}
+
+Japan Advanced Institute of Science and Technology >>> {'Japan'}
+
+Seikei University >>> {'Japan'}
+
+Osaka Prefecture University >>> {'Japan'}
+
+National Institute of Informatics >>> {'Japan'}
+
+Chiba University >>> {'Japan'}
+
+The University of Electro-Communications >>> {'Japan'}
+
+NTT (Nippon Telegraph and Telephone Corporation) Secure Platform Laboratories >>> {'Japan'}
+
+Mitsubishi Electric Corporation >>> {'Japan'}
+
+RIKEN Institute >>> {'Japan'}
+
+National Institute of Advanced Industrial Science and Technology >>> {'Japan'}
+
+Fujitsu Laboratories Ltd. >>> {'Japan'}
+
+National Institute of Information and Communications Technology >>> {'Japan'}
+
+The University of Tokyo >>> {'Japan'}
+
+Waseda University >>> {'Japan'}
+
+NTT >>> {'Japan'}
+
+Keio University >>> {'Japan'}
+
+Nara Institute of Science and Technology (NAIST) >>> {'Japan'}
+
+Kyoto University >>> {'Japan'}
+
+Asahi University >>> {'Japan'}
+
+Osaka University >>> {'Japan'}
+
+Japan Advanced Institute of Science and Technology (JAIST) >>> {'Japan'}
+
+Team Aibod >>> {'Japan'}
+
+Tokai University >>> {'Japan'}
+
+Muroran Institute of Technology >>> {'Japan'}
+
+NTT Secure Platform Laboratories >>> {'Japan'}
+
+Hosei University >>> {'Japan'}
+
+KDD Research and Development Laboratories >>> {'Japan'}
+
+University of Tokyo >>> {'Japan'}
+
+Toshiba Corporation >>> {'Japan'}
+
+National Institute of Advanced Industrial Science and Technology (AIST) >>> {'Japan'}
+
+ATR Adaptive Communications Research Laboratories >>> {'Japan'}
+
+RIKEN >>> {'Japan'}
+
+Toyota Technological Institute >>> {'Japan'}
+
+NICT >>> {'Japan'}
+
+Nara Institute of Science and Technology >>> {'Japan'}
+
+University of Calabria >>> {'Italy'}
+
+Amped Software >>> {'Italy'}
+
+Ca' Foscari Università Venezia >>> {'Italy'}
+
+Politecnico di Milano >>> {'Italy'}
+
+University of Udine >>> {'Italy'}
+
+Consiglio Nazionale delle Ricerche (CNR) >>> {'Italy'}
+
+University of Turin >>> {'Italy'}
+
+Free University of Bolzano >>> {'Italy'}
+
+Università degli Studi di Milano >>> {'Italy'}
+
+Department of Computer Science and Mathematics >>> {'Italy'}
+
+University of Sannio >>> {'Italy'}
+
+IMT Institute for Advanced Studies Lucca >>> {'Italy'}
+
+CNIT >>> {'Italy'}
+
+University of Messina >>> {'Italy'}
+
+Università degli Studi del Sannio >>> {'Italy'}
+
+Roma Tre University >>> {'Italy'}
+
+Università di Salerno >>> {'Italy'}
+
+Politecnico Di Torino >>> {'Italy'}
+
+Institute for Advanced Studies (IMT) >>> {'Italy'}
+
+University of Urbino >>> {'Italy'}
+
+Polytechnic University of Milan >>> {'Italy'}
+
+Università di Bologna >>> {'Italy'}
+
+Polytechnic University of Turin >>> {'Italy'}
+
+University of Siena >>> {'Italy'}
+
+University Ca' Foscari >>> {'Italy'}
+
+University of Cagliari >>> {'Italy'}
+
+University of Naples Federico II >>> {'Italy'}
+
+University of Campania Luigi Vanvitelli >>> {'Italy'}
+
+Sapienza Università di Roma >>> {'Italy'}
+
+University of Salerno >>> {'Italy'}
+
+University of Trieste >>> {'Italy'}
+
+University of Pisa >>> {'Italy'}
+
+Univerisità Federico II >>> {'Italy'}
+
+Sant'Anna School of Advanced Studies >>> {'Italy'}
+
+University of Venice >>> {'Italy'}
+
+University of Modena and Reggio Emilia >>> {'Italy'}
+
+University of Bari Aldo Moro >>> {'Italy'}
+
+LUMSA University >>> {'Italy'}
+
+Telsy Elettronica e Telecomunicazioni S.p.A. >>> {'Italy'}
+
+University of Rome Tor Vergata >>> {'Italy'}
+
+University of L'Aquila >>> {'Italy'}
+
+University of Insubria >>> {'Italy'}
+
+Politecnico di Torino >>> {'Italy'}
+
+University of Padua >>> {'Italy'}
+
+University of Trento >>> {'Italy'}
+
+Mediterranea University of Reggio Calabria >>> {'Italy'}
+
+IIT-CNR >>> {'Italy'}
+
+Università di Roma Tor Vergata >>> {'Italy'}
+
+University of Catania >>> {'Italy'}
+
+University of Milan >>> {'Italy'}
+
+University of Genoa >>> {'Italy'}
+
+Ca' Foscari University of Venice >>> {'Italy'}
+
+National Research Council >>> {'Italy'}
+
+Sapienza University of Rome >>> {'Italy'}
+
+Università degli Studi Roma Tre >>> {'Italy'}
+
+University of Salento >>> {'Italy'}
+
+University of Verona >>> {'Italy'}
+
+Italian Institute of Technology (IIT) >>> {'Italy'}
+
+FORLAB >>> {'Italy'}
+
+University of Florence >>> {'Italy'}
+
+University of Bologna >>> {'Italy'}
+
+Polytechnic University of Bari >>> {'Italy'}
+
+University of Toulouse >>> {'France'}
+
+Télécom Paris >>> {'France'}
+
+CentraleSupélec >>> {'France'}
+
+École Normale Supérieure >>> {'France'}
+
+Université de Limoges >>> {'France'}
+
+CEA-List LISE lab >>> {'France'}
+
+University of Toulouse Paul Sabatier >>> {'France'}
+
+University Paris 8 >>> {'France'}
+
+University Joseph Fourier (UFR IMA) >>> {'France'}
+
+IRISA >>> {'France'}
+
+Université de la Polynésie Française >>> {'France'}
+
+Centre national de la recherche scientifique (CNRS) >>> {'France'}
+
+Sorbonne University >>> {'France'}
+
+Nomadic Labs >>> {'France'}
+
+University of Lille 1 >>> {'France'}
+
+Universities of Paris 8 >>> {'France'}
+
+Université Paris 8 - Vincennes à Saint-Denis >>> {'France'}
+
+University Joseph Fourier >>> {'France'}
+
+CEA >>> {'France'}
+
+University Nice Sophia Antipolis >>> {'France'}
+
+GIPSA-Lab >>> {'France'}
+
+DGA Maîtrise de l'Information >>> {'France'}
+
+Telecom SudParis >>> {'France'}
+
+University of Rennes >>> {'France'}
+
+LAAS-CNRS >>> {'France'}
+
+Telecom ParisTech >>> {'France'}
+
+University of Bourgogne >>> {'France'}
+
+INSA Lyon >>> {'France'}
+
+Université Paris-Diderot >>> {'France'}
+
+French Alternative Energies and Atomic Energy Commission (CEA) >>> {'France'}
+
+University of Rennes 1/ESIR >>> {'France'}
+
+University of Paris-Sud >>> {'France'}
+
+University Rennes >>> {'France'}
+
+ENS Cachan >>> {'France'}
+
+UVSQ >>> {'France'}
+
+Blaise Pascal University >>> {'France'}
+
+University of Nice Sophia Antipolis >>> {'France'}
+
+TELECOM Bretagne >>> {'France'}
+
+INRIA Nancy - Grand Est >>> {'France'}
+
+Paris Diderot University >>> {'France'}
+
+Secure-IC S.A.S >>> {'France'}
+
+University of Lyon >>> {'France'}
+
+EADS Astrium Space Transportation >>> {'France'}
+
+Paris-Saclay University >>> {'France'}
+
+University of Paris-Saclay >>> {'France'}
+
+University of Caen Normandy >>> {'France'}
+
+Grenoble Institute of Technology >>> {'France'}
+
+LIRMM Montpellier >>> {'France'}
+
+ENS Lyon >>> {'France'}
+
+INRIA Sophia Antipolis >>> {'France'}
+
+University Grenoble Alpes >>> {'France'}
+
+IMAG >>> {'France'}
+
+University of Orsay (Paris XI) >>> {'France'}
+
+France Telecom R&D >>> {'France'}
+
+Sorbonne University/LIP6-Regal >>> {'France'}
+
+IRISA Rennes >>> {'France'}
+
+University of Paris Saclay >>> {'France'}
+
+CryptoExperts >>> {'France'}
+
+Eurecom >>> {'France'}
+
+Verimag >>> {'France'}
+
+University of Orléans >>> {'France'}
+
+THALES Communications and Security >>> {'France'}
+
+Direction Générale de l'Armement (DGA) >>> {'France'}
+
+Inria >>> {'France'}
+
+Inserm >>> {'France'}
+
+Versailles Saint-Quentin-en-Yvelines University >>> {'France'}
+
+INSA Rennes >>> {'France'}
+
+École Normale Supérieure de Cachan >>> {'France'}
+
+Polytech Lille >>> {'France'}
+
+Telecom-Paris >>> {'France'}
+
+University of Lille >>> {'France'}
+
+University of Grenoble >>> {'France'}
+
+XLIM >>> {'France'}
+
+University of Bordeaux >>> {'France'}
+
+Telecom-ParisTech >>> {'France'}
+
+Ecole normale supérieure de Rennes >>> {'France'}
+
+University of Franche-Comté >>> {'France'}
+
+University Clermont Auvergne >>> {'France'}
+
+University of Strasbourg >>> {'France'}
+
+ENS Paris >>> {'France'}
+
+École des Mines de Saint-Étienne >>> {'France'}
+
+LIP6 >>> {'France'}
+
+Grenoble Alpes University >>> {'France'}
+
+CNRS >>> {'France'}
+
+Thomson Paris Research Lab >>> {'France'}
+
+Pierre and Marie Curie University >>> {'France'}
+
+Claude Bernard University Lyon 1 >>> {'France'}
+
+École Nationale Supérieure des Télécommunications >>> {'France'}
+
+PSL Research University >>> {'France'}
+
+Rennes University >>> {'France'}
+
+IMT Atlantique / IRISA >>> {'France'}
+
+Université Pierre et Marie Curie >>> {'France'}
+
+University of Limoges >>> {'France'}
+
+Cergy-Pontoise University >>> {'France'}
+
+University of Nice >>> {'France'}
+
+Joseph Fourier University >>> {'France'}
+
+Université de Savoie >>> {'France'}
+
+ANSSI >>> {'France'}
+
+Ingenico Group >>> {'France'}
+
+INRIA >>> {'France'}
+
+Université de Lille 1 >>> {'France'}
+
+INRIA Lille >>> {'France'}
+
+Paul Sabatier University >>> {'France'}
+
+Université Paris Sciences et Lettres (PSL) >>> {'France'}
+
+University of the Mediterranean >>> {'France'}
+
+INRIA Lorraine >>> {'France'}
+
+University of Rennes 1 >>> {'France'}
+
+LIRS Lyon >>> {'France'}
+
+École Normale Supérieure de Lyon >>> {'France'}
+
+École polytechnique >>> {'France'}
+
+University of West Brittany >>> {'France'}
+
+University Paris Descartes >>> {'France'}
+
+Supélec >>> {'France'}
+
+INRIA Saclay Île-de-France >>> {'France'}
+
+IMT Atlantique >>> {'France'}
+
+IDEMIA >>> {'France'}
+
+University of Versailles >>> {'France'}
+
+Ecole Normale Supérieure >>> {'France'}
+
+University of Clermont Auvergne >>> {'France'}
+
+LAAS >>> {'France'}
+
+University of Paris >>> {'France'}
+
+IRIT >>> {'France'}
+
+LIFL Lille >>> {'France'}
+
+École Polytechnique >>> {'France'}
+
+Sorbonne Université >>> {'France'}
+
+Université de Caen >>> {'France'}
+
+Univ. Lyon >>> {'France'}
+
+École Nationale Supérieure (ENS) >>> {'France'}
+
+LIMOS Université Clermont Auvergne >>> {'France'}
+
+Universities of Paris 13 >>> {'France'}
+
+Paris Dauphine University >>> {'France'}
+
+Telecom & Management SudParis >>> {'France'}
+
+Laboratoire de Recherche en Informatique >>> {'France'}
+
+University of Pierre and Marie Curie >>> {'France'}
+
+Crest (Ensai) / Inria Rennes >>> {'France'}
+
+INSA Toulouse >>> {'France'}
+
+INRIA Rennes - Bretagne Atlantique >>> {'France'}
+
+Montimage >>> {'France'}
+
+Laboratoire I3S - UMR 7271 - UNS CRNS >>> {'France'}
+
+ENS >>> {'France'}
+
+Télécom Paris & Institut Polytechnique de Paris >>> {'France'}
+
+InterDigital Inc. >>> {'France'}
+
+University of Lorraine >>> {'France'}
+
+Télécom ParisTech >>> {'France'}
+
+University of Côte d'Azur >>> {'France'}
+
+ENS Paris-Saclay >>> {'France'}
+
+Univ Rennes >>> {'France'}
+
+CNRS & University Paris Diderot >>> {'France'}
+
+Télécom SudParis >>> {'France'}
+
+Ecole Normale Superieure >>> {'France'}
+
+Airbus >>> {'France'}
+
+Technicolor >>> {'France'}
+
+INRIA Bordeaux-Sud-Ouest >>> {'France'}
+
+Electronics and Telecommunication Research Institute (ETRI) >>> {'South Korea'}
+
+Sogang University >>> {'South Korea'}
+
+Chosun University >>> {'South Korea'}
+
+Sungkyunkwan University >>> {'South Korea'}
+
+Electronics and Telecommunications Research Institute >>> {'South Korea'}
+
+Korea Advanced Institute of Technology >>> {'South Korea'}
+
+Daegu Gyeongbuk Institute of Science and Technology >>> {'South Korea'}
+
+KT Network R&D Lab >>> {'South Korea'}
+
+Information and Communications University >>> {'South Korea'}
+
+Hoseo University >>> {'South Korea'}
+
+Sejong Cyber University >>> {'South Korea'}
+
+KAIST >>> {'South Korea'}
+
+Kyunghee University >>> {'South Korea'}
+
+Korea Institute of Science and Technology Information >>> {'South Korea'}
+
+Institute of Cyber Security and Privacy (ICSP) >>> {'South Korea'}
+
+Korea Institute of Science and Technology Information (KISTI) >>> {'South Korea'}
+
+National Institute for Mathematical Sciences >>> {'South Korea'}
+
+Chung-Ang University >>> {'South Korea'}
+
+Soongsil University >>> {'South Korea'}
+
+Ajou University >>> {'South Korea'}
+
+Korean Bible University >>> {'South Korea'}
+
+Korea Advanced Institute of Science and Technology (KAIST) >>> {'South Korea'}
+
+Seoul National University >>> {'South Korea'}
+
+Pohang University of Science and Technology (POSTECH) >>> {'South Korea'}
+
+Samsung >>> {'South Korea'}
+
+Pukyong National University >>> {'South Korea'}
+
+Attached Institute of ETRI >>> {'South Korea'}
+
+Korea University >>> {'South Korea'}
+
+Electronics and Telecommunications Research Institute (ETRI) >>> {'South Korea'}
+
+Korea Information Security Agency (KISA) >>> {'South Korea'}
+
+Korea Institute of Energy Technology >>> {'South Korea'}
+
+Ewha Womans University >>> {'South Korea'}
+
+POSTECH >>> {'South Korea'}
+
+Myongji University >>> {'South Korea'}
+
+Ulsan National Institute of Science & Technology (UNIST) >>> {'South Korea'}
+
+University of Seoul >>> {'South Korea'}
+
+Jeju National University >>> {'South Korea'}
+
+Kyungpook National University >>> {'South Korea'}
+
+Chungnam National University >>> {'South Korea'}
+
+Sejong University >>> {'South Korea'}
+
+Yonsei University >>> {'South Korea'}
+
+Inha University >>> {'South Korea'}
+
+Daegu Gyeongbuk Institute of Science and Technology (DGIST) >>> {'South Korea'}
+
+Soonchunhyang University >>> {'South Korea'}
+
+Dongseo University >>> {'South Korea'}
+
+Seoul Women's University >>> {'South Korea'}
+
+Korea Advanced Institute of Science >>> {'South Korea'}
+
+Korea Advanced Institute of Science and Technology >>> {'South Korea'}
+
+Samsung Research >>> {'South Korea'}
+
+Korea Military Academy >>> {'South Korea'}
+
+Sangmyung University >>> {'South Korea'}
+
+Pohang University of Science and Technology >>> {'South Korea'}
+
+Hanyang University >>> {'South Korea'}
+
+POSTECH Pohang >>> {'South Korea'}
+
+Atto Research Korea >>> {'South Korea'}
+
+LG Electronics >>> {'South Korea'}
+
+Dankook University >>> {'South Korea'}
+
+Samsung Electronics >>> {'South Korea'}
+
+Samsung SDS >>> {'South Korea'}
+
+Luxembourg Institute of Science & Technology >>> {'Luxembourg'}
+
+University of Luxembourg >>> {'Luxembourg'}
+
+Université du Luxembourg >>> {'Luxembourg'}
+
+Luxembourg Institute of Science and Technology >>> {'Luxembourg'}
+
+INTRASOFT International S.A. >>> {'Luxembourg'}
+
+Charles Stuart University >>> {'Australia'}
+
+The University of Sydney >>> {'Australia'}
+
+Queensland University of Technology >>> {'Australia'}
+
+Monash University >>> {'Australia', 'Malaysia'}
+
+Griffith University >>> {'Australia'}
+
+University of Newcastle >>> {'Australia'}
+
+Defence Science & Technology Organisation >>> {'Australia'}
+
+Wollongong University >>> {'Australia'}
+
+CSIRO Data61 >>> {'Australia'}
+
+Murdoch University >>> {'Australia'}
+
+Royal Melbourne Institute of Technology University >>> {'Australia'}
+
+Department of Electrical and Electronic Engineering >>> {'Australia'}
+
+University of Adelaide >>> {'Australia'}
+
+Defence Science and Technology Organisation >>> {'Australia'}
+
+University of Sydney >>> {'Australia'}
+
+Curtin University >>> {'Australia'}
+
+Western Sydney University >>> {'Australia'}
+
+Information Security Institute >>> {'Australia'}
+
+University of Southern Queensland >>> {'Australia'}
+
+The University of Melbourne >>> {'Australia'}
+
+Australian National University >>> {'Australia'}
+
+Southern Cross University >>> {'Australia'}
+
+Swinburne University of Technology >>> {'Australia', 'Malaysia'}
+
+Central Queensland University >>> {'Australia'}
+
+Macquarie University >>> {'Australia'}
+
+University of Western Sydney >>> {'Australia'}
+
+University of Wollongong >>> {'Australia'}
+
+University of Western Australia >>> {'Australia'}
+
+University of Queensland >>> {'Australia'}
+
+Edith Cowan University >>> {'Australia'}
+
+University of Technology Sydney >>> {'Australia'}
+
+DSTO >>> {'Australia'}
+
+University of New England >>> {'Australia'}
+
+National ICT Australia >>> {'Australia'}
+
+National ICT Australia (NICTA) >>> {'Australia'}
+
+Victoria University >>> {'Australia'}
+
+RMIT University >>> {'Australia'}
+
+University of Technology >>> {'Australia', 'Iraq'}
+
+Federation University Australia >>> {'Australia'}
+
+University of New South Wales >>> {'Australia'}
+
+Deakin University >>> {'Australia'}
+
+University of South Australia >>> {'Australia'}
+
+Curtin University of Technology >>> {'Australia'}
+
+Cyber Security CRC >>> {'Australia'}
+
+University of Melbourne >>> {'Australia'}
+
+Charles Darwin University >>> {'Australia'}
+
+The University of Queensland >>> {'Australia'}
+
+Defence Science and Technology Group >>> {'Australia'}
+
+Asia Pacific Network Information Centre (APNIC) >>> {'Australia'}
+
+Charles Sturt University >>> {'Australia'}
+
+CSIRO >>> {'Australia'}
+
+Macqaurie University >>> {'Australia'}
+
+Data61 >>> {'Australia'}
+
+The University of Adelaide >>> {'Australia'}
+
+Australian Defence Force Academy >>> {'Australia'}
+
+Federation University >>> {'Australia'}
+
+Ben Gurion University >>> {'Israel'}
+
+Technion - Israel Institute of Technology >>> {'Israel'}
+
+Bar-Ilan University >>> {'Israel'}
+
+Tel Aviv University >>> {'Israel'}
+
+Jerusalem College of Technology >>> {'Israel'}
+
+University of Haifa >>> {'Israel'}
+
+Ben-Gurion University of the Negev >>> {'Israel'}
+
+Technion >>> {'Israel'}
+
+NEC Israel Research Center >>> {'Israel'}
+
+The Hebrew University of Jerusalem >>> {'Israel'}
+
+The Hebrew University >>> {'Israel'}
+
+IBM Research - Haifa >>> {'Israel'}
+
+IDC Herzliya >>> {'Israel'}
+
+Hebrew University of Jerusalem >>> {'Israel'}
+
+Weizmann Institute of Science >>> {'Israel'}
+
+Telekom Innovation Laboratories at Ben-Gurion University of the Negev >>> {'Israel'}
+
+Ben-Gurion University >>> {'Israel'}
+
+Hebrew University >>> {'Israel'}
+
+IBM Haifa Lab >>> {'Israel'}
+
+KU Leuven >>> {'Belgium'}
+
+Hasselt University >>> {'Belgium'}
+
+University of Mons >>> {'Belgium'}
+
+COSIC >>> {'Belgium'}
+
+Catholic University of Leuven >>> {'Belgium'}
+
+STMicroelectronics >>> {'Belgium'}
+
+Ghent University >>> {'Belgium'}
+
+Université de Liège >>> {'Belgium'}
+
+ICTEAM/ELEN/Crypto Group >>> {'Belgium'}
+
+University of Antwerp >>> {'Belgium'}
+
+K.U. Leuven >>> {'Belgium'}
+
+imec-COSIC >>> {'Belgium'}
+
+Catholic University of Louvain >>> {'Belgium'}
+
+Université Catholique de Louvain >>> {'Belgium'}
+
+University of Namur >>> {'Belgium'}
+
+FUNDP Namur >>> {'Belgium'}
+
+Université catholique de Louvain >>> {'Belgium'}
+
+Katholieke Universiteit Leuven >>> {'Belgium'}
+
+Université Libre de Bruxelles >>> {'Belgium'}
+
+Louvain University >>> {'Belgium'}
+
+Université libre de Bruxelles >>> {'Belgium'}
+
+UCLouvain >>> {'Belgium'}
+
+Critical Software SA >>> {'Portugal'}
+
+Critical Software S.A. >>> {'Portugal'}
+
+Universidade Nova de Lisboa >>> {'Portugal'}
+
+University of Porto >>> {'Portugal'}
+
+Wavecom >>> {'Portugal'}
+
+Universidade Técnica de Lisboa >>> {'Portugal'}
+
+Universidade de Lisboa >>> {'Portugal'}
+
+INESC-ID Lisboa >>> {'Portugal'}
+
+University of Lisbon >>> {'Portugal'}
+
+Instituto de Telecomunicações >>> {'Portugal'}
+
+Polytechnic Institute of Guarda >>> {'Portugal'}
+
+University of Aveiro >>> {'Portugal'}
+
+LASIGE >>> {'Portugal'}
+
+Lisbon University/INESC-ID >>> {'Portugal'}
+
+University of Minho >>> {'Portugal'}
+
+University of Coimbra >>> {'Portugal'}
+
+Escola Superior de Tecnologia de Castelo Branco >>> {'Portugal'}
+
+IST-Universidade de Lisboa >>> {'Portugal'}
+
+Technical University of Lisbon >>> {'Portugal'}
+
+Universidade de Aveiro >>> {'Portugal'}
+
+INESC-ID - Distributed Systems Group >>> {'Portugal'}
+
+Mälardalen University >>> {'Sweden'}
+
+Stockholm University >>> {'Sweden'}
+
+Umeå University >>> {'Sweden'}
+
+Chalmers University >>> {'Sweden'}
+
+Karlstad University >>> {'Sweden'}
+
+Chalmers University of Technology >>> {'Sweden'}
+
+Lund University >>> {'Sweden'}
+
+Swedish Institute of Computer Science >>> {'Sweden'}
+
+Uppsala University >>> {'Sweden'}
+
+Quviq AB >>> {'Sweden'}
+
+Linköping University >>> {'Sweden'}
+
+Swedish Institute of Computer Science (SICS) >>> {'Sweden'}
+
+University of Skövde >>> {'Sweden'}
+
+Mid Sweden University >>> {'Sweden'}
+
+KTH Royal Institute of Technology >>> {'Sweden'}
+
+Royal Institute of Technology >>> {'Sweden'}
+
+University of Lund >>> {'Sweden'}
+
+Blekinge Institute of Technology >>> {'Sweden'}
+
+Örebru University >>> {'Sweden'}
+
+Royal Institute of Technology (KTH) >>> {'Sweden'}
+
+University of Gothenburg >>> {'Sweden'}
+
+Halmstad University >>> {'Sweden'}
+
+Hamad Bin Khalifa University >>> {'Qatar'}
+
+Hamad bin Khalifa University >>> {'Qatar'}
+
+Qatar Computing Research Institute >>> {'Qatar'}
+
+Texas A&M University at Qatar >>> {'Qatar'}
+
+HBKU-CSE >>> {'Qatar'}
+
+Carnegie Mellon University Qatar >>> {'Qatar'}
+
+Qatar University >>> {'Qatar'}
+
+Koç Üniversitesi >>> {'Turkey'}
+
+Bilkent University >>> {'Turkey'}
+
+Koç University >>> {'Turkey'}
+
+Yeditepe University >>> {'Turkey'}
+
+Selcuk University >>> {'Turkey'}
+
+Bilkent Universitesi >>> {'Turkey'}
+
+Bogazici University >>> {'Turkey'}
+
+Istanbul Technical University >>> {'Turkey'}
+
+TOBB University of Economics and Technology >>> {'Turkey'}
+
+Özyegin Üniversitesi >>> {'Turkey'}
+
+Bogaziçi University >>> {'Turkey'}
+
+Sabanci University >>> {'Turkey'}
+
+Asia University >>> {'Taiwan'}
+
+National Chengchi University >>> {'Taiwan'}
+
+Chinese Medical University >>> {'Taiwan'}
+
+National Chung Cheng University >>> {'Taiwan'}
+
+Feng Chia University >>> {'Taiwan'}
+
+National Dong Hwa University >>> {'Taiwan'}
+
+Industrial Technology Research Institute >>> {'Taiwan'}
+
+National University of Kaohsiung >>> {'Taiwan'}
+
+Tunghai University >>> {'Taiwan'}
+
+National Chiao Tung University >>> {'Taiwan'}
+
+Academia Sinica >>> {'Taiwan'}
+
+National Taiwan Universality >>> {'Taiwan'}
+
+National Taiwan University >>> {'Taiwan'}
+
+National Tsing Hua University >>> {'Taiwan'}
+
+National Ilan University >>> {'Taiwan'}
+
+National Cheng Kung University >>> {'Taiwan'}
+
+National Chung Hsing University >>> {'Taiwan'}
+
+Universidad del Norte >>> {'Colombia'}
+
+Universidad Nacional de Colombia >>> {'Colombia'}
+
+Universidad Antonio Nariño >>> {'Colombia'}
+
+VTT Technical Research Centre of Finland >>> {'Finland'}
+
+Helsinki University of Technology >>> {'Finland'}
+
+Tampere University >>> {'Finland'}
+
+Aalto University >>> {'Finland'}
+
+University of Helsinki's Department of Computer Science >>> {'Finland'}
+
+University of Helsinki >>> {'Finland'}
+
+University of Oulu >>> {'Finland'}
+
+Abo Akademi University >>> {'Finland'}
+
+VTT Technical Research Centre of Finland Ltd. >>> {'Finland'}
+
+University of Jyväskylä >>> {'Finland'}
+
+University of Turku >>> {'Finland'}
+
+Åbo Akademi University >>> {'Finland'}
+
+Tampere University of Technology >>> {'Finland'}
+
+Helsinki University of Technology (TKK) >>> {'Finland'}
+
+Athens University of Economics and Business >>> {'Greece'}
+
+Technical University of Crete >>> {'Greece'}
+
+Foundation for Research & Technology Hellas (FORTH) >>> {'Greece'}
+
+Democritus University of Thrace >>> {'Greece'}
+
+University of Western Macedonia >>> {'Greece'}
+
+University of Thessaly >>> {'Greece'}
+
+National and Kapodistrian University of Athens >>> {'Greece'}
+
+University of Pireaus >>> {'Greece'}
+
+Foundation for Research and Technology Hellas (FORTH) >>> {'Greece'}
+
+University of Piraeus >>> {'Greece'}
+
+u-blox Athens S.A. >>> {'Greece'}
+
+University of Crete >>> {'Greece'}
+
+University of the Aegean >>> {'Greece'}
+
+Ionian University >>> {'Greece'}
+
+Foundation for Research and Technology - Hellas >>> {'Greece'}
+
+University of Ioannina >>> {'Greece'}
+
+Foundation for Research & Technology - Hellas (FORTH) >>> {'Greece'}
+
+National Technical University of Athens (NTUA) >>> {'Greece'}
+
+Aristotle University of Thessaloniki >>> {'Greece'}
+
+Foundation for Research & Technology - Hellas >>> {'Greece'}
+
+Hellenic Open University >>> {'Greece'}
+
+University of Athens >>> {'Greece'}
+
+University of Patras >>> {'Greece'}
+
+University of Havana >>> {'Cuba'}
+
+Polytechnic University of Timișoara >>> {'Romania'}
+
+Alexandru Ioan Cuza University >>> {'Romania'}
+
+University Politehnica of Bucharest >>> {'Romania'}
+
+Valahia University of Targoviste >>> {'Romania'}
+
+University of Bucharest >>> {'Romania'}
+
+Technical University of Cluj-Napoca >>> {'Romania'}
+
+Politehnica University of Timisoara >>> {'Romania'}
+
+Cairo University >>> {'Egypt'}
+
+Al-Azhar University >>> {'Egypt'}
+
+American University in Cairo >>> {'Egypt'}
+
+Alexandria University >>> {'Egypt'}
+
+Department of Computer Science and Engineering >>> {'Egypt'}
+
+RDI >>> {'Egypt'}
+
+Helwan University >>> {'Egypt'}
+
+Arab Academy for Science >>> {'Egypt'}
+
+none >>> {'none'}
+
+Reykjavík University >>> {'Iceland'}
+
+University of Tartu >>> {'Estonia'}
+
+Cybernetica AS >>> {'Estonia'}
+
+Institute of Cybernetics >>> {'Estonia'}
+
+DarkMatter LLC >>> {'United Arab Emirates'}
+
+United Arab Emirates University >>> {'United Arab Emirates'}
+
+Masdar Institute of Science and Technology >>> {'United Arab Emirates'}
+
+British University in Dubai >>> {'United Arab Emirates'}
+
+American University of Sharjah >>> {'United Arab Emirates'}
+
+New York University Abu Dhabi >>> {'United Arab Emirates'}
+
+New York University Abu Dhabi (NYU Abu Dhabi) >>> {'United Arab Emirates'}
+
+University of Johannesburg >>> {'South Africa'}
+
+Nelson Mandela University >>> {'South Africa'}
+
+University of Cape Town >>> {'South Africa'}
+
+University of South Africa >>> {'South Africa'}
+
+Rhodes University >>> {'South Africa'}
+
+Nelson Mandela Metropolitan University >>> {'South Africa'}
+
+University of Pretoria >>> {'South Africa'}
+
+Dublin City University >>> {'Ireland'}
+
+University College Cork >>> {'Ireland'}
+
+Ericsson Network Management Lab >>> {'Ireland'}
+
+Alcatel-Lucent/Nokia Bell Labs >>> {'Ireland'}
+
+National University of Ireland >>> {'Ireland'}
+
+Trinity College Dublin >>> {'Ireland'}
+
+NUI Maynooth >>> {'Ireland'}
+
+University College Dublin >>> {'Ireland'}
+
+Bangladesh University of Engineering and Technology >>> {'Bangladesh'}
+
+American International University Bangladesh >>> {'Bangladesh'}
+
+Rajshahi University of Engineering & Technology >>> {'Bangladesh'}
+
+University of Dhaka >>> {'Bangladesh'}
+
+King Abdullah University of Science and Technology >>> {'Saudi Arabia'}
+
+University of Hail >>> {'Saudi Arabia'}
+
+King Saud University >>> {'Saudi Arabia'}
+
+Umm Al-Qura University >>> {'Saudi Arabia'}
+
+King Abdulaziz University >>> {'Saudi Arabia'}
+
+University of King Abdulaziz >>> {'Saudi Arabia'}
+
+King Abdullah University of Science and Technology (KAUST) >>> {'Saudi Arabia'}
+
+King Fahd University of Petroleum and Minerals >>> {'Saudi Arabia'}
+
+NTNU >>> {'Norway'}
+
+Selmer Center for Secure and Reliable Communications >>> {'Norway'}
+
+NTNU - Norwegian University of Science and Technology >>> {'Norway'}
+
+System Security Group >>> {'Norway'}
+
+Norwegian University of Science and Technology (NTNU) >>> {'Norway'}
+
+University of Bergen >>> {'Norway'}
+
+Norwegian Defence Research Establishment >>> {'Norway'}
+
+Gjøvik University College >>> {'Norway'}
+
+Simula Research Laboratory >>> {'Norway'}
+
+Norwegian University for Science and Technology >>> {'Norway'}
+
+Simula Research Lab >>> {'Norway'}
+
+Simula UiB >>> {'Norway'}
+
+Norwegian University of Science and Technology >>> {'Norway'}
+
+Norwegian Biometrics Laboratory >>> {'Norway'}
+
+University of Stavanger >>> {'Norway'}
+
+University of Agder >>> {'Norway'}
+
+University of Oslo >>> {'Norway'}
+
+University of Szeged >>> {'Hungary'}
+
+Hungarian Academy of Sciences >>> {'Hungary'}
+
+Eötvös Loránd University >>> {'Hungary'}
+
+Central European University >>> {'Hungary'}
+
+Budapest University of Technology and Economics >>> {'Hungary'}
+
+University of Chile >>> {'Chile'}
+
+Pontificia Universidad Catolica de Chile >>> {'Chile'}
+
+Independent University of Moscow >>> {'Russia'}
+
+Russian Academy of Sciences >>> {'Russia'}
+
+Russian Academy of Science >>> {'Russia'}
+
+St. Petersburg Institute for Informatics and Automation (SPIIRAS) >>> {'Russia'}
+
+St. Petersburg Institute for Informatics and Automation >>> {'Russia'}
+
+Sobolev Institute of Mathematics >>> {'Russia'}
+
+Lomonosov Moscow State University >>> {'Russia'}
+
+Siberian Branch of the Russian Academy of Sciences >>> {'Russia'}
+
+American University of Science and Technology >>> {'Lebanon'}
+
+American University of Beirut (AUB) >>> {'Lebanon'}
+
+American University of Beirut >>> {'Lebanon'}
+
+Antonine University >>> {'Lebanon'}
+
+University of Wroclaw >>> {'Poland'}
+
+Wroclaw University of Technology >>> {'Poland'}
+
+Warsaw University of Technology >>> {'Poland'}
+
+University of Warsaw >>> {'Poland'}
+
+Poznań University >>> {'Poland'}
+
+Adam Mickiewicz University >>> {'Poland'}
+
+Universidad de Costa Rica >>> {'Costa Rica'}
+
+Nimiq Foundation >>> {'Costa Rica'}
+
+Hassan II University >>> {'Morocco'}
+
+Mohammed V University in Rabat >>> {'Morocco'}
+
+University of the Republic >>> {'Uruguay'}
+
+Universidad Nacional de Rosario >>> {'Argentina'}
+
+National University of La Plata >>> {'Argentina'}
+
+National University of Córdoba >>> {'Argentina'}
+
+University of Guanajuato >>> {'Mexico'}
+
+Instituto Politécnico Nacional (IPN) >>> {'Mexico'}
+
+National Institute of Astrophysics >>> {'Mexico'}
+
+Instituto Politécnico Nacional >>> {'Mexico'}
+
+Universidad Autónoma de Ciudad Juárez >>> {'Mexico'}
+
+Escuela Superior de Ingeniería Mecánica y Eléctrica Unidad Culhuacán >>> {'Mexico'}
+
+National Autonomous University of Mexico >>> {'Mexico'}
+
+Benemérita Universidad Autónoma de Puebla (BUAP) >>> {'Mexico'}
+
+National Institute for Astrophysics >>> {'Mexico'}
+
+Instituto Nacional de Astrofísica >>> {'Mexico'}
+
+Center for Electronics and Telecommunications >>> {'Mexico'}
+
+Electrical and Computer Engineering Department >>> {'Iran'}
+
+Sharif University of Technology >>> {'Iran'}
+
+Amirkabir University of Technology >>> {'Iran'}
+
+Shahid Beheshti University (SBU) >>> {'Iran'}
+
+Shahid Beheshti University >>> {'Iran'}
+
+Isfahan University of Technology >>> {'Iran'}
+
+University of Tehran >>> {'Iran'}
+
+University of Isfahan >>> {'Iran'}
+
+CTU in Prague >>> {'Czechia'}
+
+Brno University of Technology >>> {'Czechia'}
+
+Charles University >>> {'Czechia'}
+
+Masaryk University >>> {'Czechia'}
+
+Charles University in Prague >>> {'Czechia'}
+
+Czech Technical University in Prague >>> {'Czechia'}
+
+Academy of Sciences of Czech Republic >>> {'Czechia'}
+
+Singidunum University >>> {'Serbia'}
+
+Universitas Gadjah Mada >>> {'Indonesia'}
+
+Escuela Superior Politécnica del Litoral (ESPOL) >>> {'Ecuador'}
+
+Information Technology University >>> {'Pakistan'}
+
+Bahria University >>> {'Pakistan'}
+
+National Textile University >>> {'Pakistan'}
+
+National University of Sciences and Technology >>> {'Pakistan'}
+
+University of Engineering and Technology >>> {'Pakistan'}
+
+Université Cheikh Anta Diop de Dakar >>> {'Senegal'}
+
+Tunku Abdul Rahman University >>> {'Malaysia'}
+
+Multimedia University >>> {'Malaysia'}
+
+University of Nottingham Malaysia Campus >>> {'Malaysia'}
+
+Swinburne University of Technology Sarawak >>> {'Malaysia'}
+
+Universiti Sains Malaysia >>> {'Malaysia'}
+
+International Islamic University Malaysia >>> {'Malaysia'}
+
+University of Malta >>> {'Malta'}
+
+Kuwait University >>> {'Kuwait'}
+
+University of Sfax >>> {'Tunisia'}
+
+Duy Tan University >>> {'Vietnam'}
+
+Phenikaa University >>> {'Vietnam'}
+
+VNU University of Engineering and Technology >>> {'Vietnam'}
+
+Thuyloi University >>> {'Vietnam'}
+
+HaiPhong Private University >>> {'Vietnam'}
+
+University of Khartoum >>> {'Sudan'}
+
+Kasetsart University >>> {'Thailand'}
+
+Namibia University of Science and Technology >>> {'Namibia'}
+
