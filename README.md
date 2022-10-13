@@ -96,4 +96,5 @@ The grade distribution now looks like this:
 
 
 ## How to Run the Code?
+`python3 map.py` 
 
