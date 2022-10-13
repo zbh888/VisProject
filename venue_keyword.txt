@@ -1,0 +1,51 @@
+Tier1 
+
+"IEEE Symposium on Security and Privacy"	IEEE Symposium on Security and Privacy
+"CCS"	ACM Conference on Computer and Communications Security
+"USENIX Security Symposium"	USENIX Security Symposium
+"NDSS"	ISOC Network and Distributed System Security Symposium
+"CRYPTO"	International Cryptology Conference
+"EUROCRYPT", "EUROCRYPT (2)", "EUROCRYPT (3)", "EUROCRYPT (1)"	European Cryptology Conference
+
+Tier2
+
+"ESORICS", "ESORICS (1)", "ESORICS (2)"	European Symposium on Research in Computer Security
+"RAID"	International Symposium on Recent Advances in Intrusion Detection
+"ACSAC"	Annual Computer Security Applications Conference
+"DSN"	The International Conference on Dependable Systems and Networks
+"Internet Measurement Conference"	  Internet Measurement Conference
+"AsiaCCS"	ACM Symposium on Information, Computer and Communications Security
+"Privacy Enhancing Technologies"	Privacy Enhancing Technologies Symposium
+"EuroS&P"	IEEE European Symposium on Security and Privacy
+"EuroS&P Workshops"	IEEE European Symposium on Security and Privacy
+"CSF"	IEEE Computer Security Foundations Symposium.
+"CSFW"	IEEE Computer Security Foundations Symposium.
+"ASIACRYPT", "ASIACRYPT (1)", "ASIACRYPT (2)", "ASIACRYPT (3)" International Conference on the Theory and Application of Cryptology and Information Security
+"TCC", "TCC (1)", "TCC (2)"	Theory of Cryptography Conference
+"IACR Trans. Cryptogr. Hardw. Embed. Syst.", "CHES" Conference on Cryptographic Hardware and Embedded Systems
+
+Tier3
+
+"SecureComm", "SecureComm (1)", "SecureComm (2)" Internation Conference on Security and Privacy in Communication Networks
+"CNS"	IEEE Conference on Communications and Network Security
+"DIMVA"	GI SIG SIDAR Conference on Detection of Intrusions and Malware and Vulnerability Assessment
+"ACNS", "ACNS Workshops"	International Conference on Applied Cryptography and Network Security
+"ACISP"	Australasia Conference on Information Security and Privacy
+"ICICS"	International Conference on Information and Communications Security
+"ISC"	  Information Security Conference
+"ICISC"	  International Conference on Information Security and Cryptology
+"SACMAT"	ACM Symposium on Access Control Models and Technologies
+"SEC" IFIP International Information Security Conference
+"WISEC"	ACM Conference on Wireless Network Security
+"SOUPS"	 "SOUPS @ USENIX Security Symposium"	Symposium On Usable Privacy and Security
+"CODASPY", "IWSPA@CODASPY", "SDN-NFV@CODASPY", "SAT-CPS@CODASPY"  ACM Conference on Data and Application Security and Privacy
+"MALWARE"	International Conference on Malicious and Unwanted Software 
+"IACR Trans. Symmetric Cryptol."	Transactions on Symmetric Cryptology
+"FSE"	592 Conference on Fast Software Encryption (FSE)
+"Public Key Cryptography", "Public Key Cryptography (1)", "Public Key Cryptography (2)" International Conference on Practice and Theory in Public Key Cryptography
+"Financial Cryptography", "Financial Cryptography Workshops" International Conference on Financial Cryptography and Data Security
+"CT-RSA"	RSA Conference, Cryptographers' Track
+"HOST"	IEEE International Symposium on Hardware Oriented Security and Trust
+"NSPW"	New Security Paradigms Workshop
+"Information Hiding"	Workshop on Information Hiding and Multimedia Securit
+"IH&MMSec"	Workshop on Information Hiding and Multimedia Securit
