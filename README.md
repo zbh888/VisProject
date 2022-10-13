@@ -84,7 +84,7 @@ For visualization purpose. we want them to be better distributed in the color ma
 ```
 
 The grade distribution now looks like this:
-
+![Country Grade](distribution.png "Grade Distribution")
 
 
 ### 4.  Visualization on maps
