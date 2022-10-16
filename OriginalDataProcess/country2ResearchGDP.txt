@@ -1,0 +1,180 @@
+United States of America >>> 612.714
+
+ China >>> 514.798
+
+ Japan >>> 172.614
+
+ India >>> 158.691
+
+ Germany >>> 131.932
+
+ Korea >>> 100.055
+
+ France >>> 63.658
+
+ United Kingdom >>> 51.702
+
+ Taiwan >>> 42.945
+
+ Russia >>> 38.549
+
+ Brazil >>> 38.0
+
+ Italy >>> 33.84
+
+ Canada >>> 26.636
+
+ Australia >>> 25.58
+
+ Turkey >>> 24.827
+
+ Spain >>> 22.468
+
+ Netherlands >>> 20.167
+
+ Sweden >>> 17.722
+
+ Israel >>> 16.888
+
+ Poland >>> 16.086
+
+ Belgium >>> 16.043
+
+ Austria >>> 14.945
+
+ Switzerland >>> 13.1
+
+ Thailand >>> 12.4
+
+ Indonesia >>> 10.758
+
+ Malaysia >>> 10.6
+
+ Singapore >>> 10.0
+
+ Mexico >>> 9.0
+
+ Denmark >>> 8.2
+
+ Finland >>> 7.2
+
+ CzechRepublic >>> 6.3
+
+ Egypt >>> 6.2
+
+ South Africa >>> 6.1
+
+ Norway >>> 5.8
+
+ Argentina >>> 5.0
+
+ UnitedArabEmirates >>> 4.3
+
+ Ireland >>> 3.6
+
+ Portugal >>> 3.6
+
+ Hungary >>> 3.4
+
+ Ukraine >>> 3.0
+
+ Hong Kong >>> 2.7
+
+ Greece >>> 2.4
+
+ Pakistan >>> 2.4
+
+ Romania >>> 2.3
+
+New Zealand >>> 1.8
+
+ SaudiArabia >>> 1.8
+
+ Colombia >>> 1.6
+
+ Chile >>> 1.5
+
+ Slovenia >>> 1.5
+
+ Morocco >>> 1.5
+
+ Slovakia >>> 1.4
+
+ Qatar >>> 1.3
+
+ Belarus >>> 1.1
+
+ Vietnam >>> 0.9
+
+ Kuwait >>> 0.8
+
+ Bulgaria >>> 0.8
+
+ Ecuador >>> 0.8
+
+ Ethiopia >>> 0.8
+
+ Tunisia >>> 0.8
+
+ Lithuania >>> 0.8
+
+ Luxembourg >>> 0.7
+
+ Croatia >>> 0.7
+
+ Serbia >>> 0.7
+
+ Iran >>> 0.7
+
+ Kazakhstan >>> 0.7
+
+ Philippines >>> 0.5
+
+ Peru >>> 0.4
+
+ Estonia >>> 0.3
+
+ Azerbaijan >>> 0.3
+
+ Latvia >>> 0.3
+
+ Uganda >>> 0.3
+
+ Costa Rica >>> 0.3
+
+ Iceland >>> 0.3
+
+ Mongolia >>> 0.3
+
+ Uruguay >>> 0.2
+
+ Sudan >>> 0.2
+
+ Algeria >>> 0.2
+
+ Cyprus >>> 0.1
+
+ NorthMacedonia >>> 0.1
+
+ BosniaandHerzegovina >>> 0.1
+
+ Malta >>> 0.1
+
+ Bolivia >>> 0.1
+
+ Botswana >>> 0.1
+
+ Oman >>> 0.1
+
+ Macau >>> 0.1
+
+ Moldova >>> 0.1
+
+ Bahrain >>> 0.1
+
+ Paraguay >>> 0.1
+
+ Georgia >>> 0.1
+
+ Montenegro >>> 0.0
+

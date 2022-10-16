@@ -45,8 +45,8 @@ def gen_color(grade, single_color):
     color = cmap(norm_grade)
     return [rgb2hex(x) for x in color]
 
-def gen_map(area_name="world", absolute_analysis_mode=False, single_color=False):
-    world = prepare_world()
+def gen_map(area_name="world", absolute_analysis_mode=False, single_color=False, which_grade = "Plain Grade"):
+    world = prepare_world(which_grade)
     area = world.copy()
     # Parameter 1, Select Area
     if area_name == "Asia":
@@ -118,7 +118,7 @@ def gen_map(area_name="world", absolute_analysis_mode=False, single_color=False)
     webbrowser.open_new_tab('file://' + os.path.realpath("MyMap.html"))
     return m
 
-def prepare_world():
+def prepare_world(which_grade):
     world = gpd.read_file(gpd.datasets.get_path('naturalearth_lowres'))
     l = 0.6
     lon_point_list = [105-l, 105-l, 105+l, 105+l] #x
@@ -136,6 +136,10 @@ def prepare_world():
     world.loc[178] = [525285.0,'Europe','Malta','MLT',0,polygon_geom]
     
     c2g = read('grade.txt')
+    if which_grade == "Grade relative to research GDP":
+        c2g = read('grade_rgdp.txt')
+    if which_grade == "Grade relative to population":
+        c2g = read('grade_pop.txt')
     n = len(world['name'])
     grade_column = np.array([0.0] * n)
     world['grade'] = grade_column
@@ -145,7 +149,7 @@ def prepare_world():
             world.at[i, 'grade'] = c2g[c_name]
     return world
 
-@Gooey()
+@Gooey(return_to_config= True)
 def main():
     parser = GooeyParser()
     gooey_options={'show_border': True,
@@ -155,11 +159,22 @@ def main():
     search_group.add_argument(
         "-c",
         "--contigent_name",
-        metavar='Download or upload support table? ',
+        metavar='Choose one area for ranking',
         choices=['The World', 'Asia', 'Europe', 'South America', 'North America'],
         type = str,
         required=True,
         help="Focus on one continent"
+    )
+    search_group2 = parser.add_argument_group("Grade Options",
+                                             gooey_options=gooey_options)
+    search_group2.add_argument(
+        "-g",
+        "--grade_type",
+        metavar='Choose one type of grade for ranking',
+        choices=['Plain Grade', 'Grade relative to research GDP', 'Grade relative to population'],
+        type = str,
+        required=True,
+        help="Focus on one type of grade"
     )
     parser.add_argument(
         "-d",
@@ -180,7 +195,7 @@ def main():
         help="Turn on the single color mode"
     )
     args = parser.parse_args()
-    gen_map(args.contigent_name, args.dark_mode, args.single_color)
+    gen_map(args.contigent_name, args.dark_mode, args.single_color, args.grade_type)
 
 if __name__ == "__main__":
     main()

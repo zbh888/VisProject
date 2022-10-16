@@ -1,0 +1,136 @@
+United Kingdom >>> 66834405.0
+
+Denmark >>> 5818553.0
+
+United States of America >>> 328239523.0
+
+China >>> 1397715000.0
+
+Germany >>> 83132799.0
+
+Brazil >>> 211049527.0
+
+Spain >>> 47076781.0
+
+Canada >>> 37589262.0
+
+Switzerland >>> 8574832.0
+
+Austria >>> 8877067.0
+
+Netherlands >>> 17332850.0
+
+New Zealand >>> 4917000.0
+
+Cyprus >>> 1198575.0
+
+India >>> 1366417754.0
+
+Japan >>> 126264931.0
+
+Italy >>> 60297396.0
+
+France >>> 67059887.0
+
+South Korea >>> 51709098.0
+
+Luxembourg >>> 619896.0
+
+Australia >>> 25364307.0
+
+Israel >>> 9053300.0
+
+Belgium >>> 11484055.0
+
+Portugal >>> 10269417.0
+
+Sweden >>> 10285453.0
+
+Qatar >>> 2832067.0
+
+Turkey >>> 83429615.0
+
+Taiwan >>> 23568378.0
+
+Colombia >>> 50339443.0
+
+Finland >>> 5520314.0
+
+Greece >>> 10716322.0
+
+Cuba >>> 11333483.0
+
+Romania >>> 19356544.0
+
+Egypt >>> 100388073.0
+
+Iceland >>> 361313.0
+
+Estonia >>> 1326590.0
+
+United Arab Emirates >>> 9770529.0
+
+South Africa >>> 58558270.0
+
+Ireland >>> 4941444.0
+
+Bangladesh >>> 163046161.0
+
+Saudi Arabia >>> 34268528.0
+
+Norway >>> 5347896.0
+
+Hungary >>> 9769949.0
+
+Chile >>> 18952038.0
+
+Russia >>> 144373535.0
+
+Lebanon >>> 6855713.0
+
+Poland >>> 37970874.0
+
+Costa Rica >>> 5047561.0
+
+Morocco >>> 36471769.0
+
+Uruguay >>> 3461734.0
+
+Argentina >>> 44938712.0
+
+Mexico >>> 127575529.0
+
+Iran >>> 82913906.0
+
+Czechia >>> 10669709.0
+
+Serbia >>> 6944975.0
+
+Indonesia >>> 270625568.0
+
+Ecuador >>> 17373662.0
+
+Pakistan >>> 216565318.0
+
+Senegal >>> 16296364.0
+
+Malaysia >>> 31949777.0
+
+Iraq >>> 39309783.0
+
+Kuwait >>> 4207083.0
+
+Tunisia >>> 11694719.0
+
+Vietnam >>> 96462106.0
+
+Sudan >>> 42813238.0
+
+Thailand >>> 69625582.0
+
+Namibia >>> 2494530.0
+
+Singapore >>> 5685800.0
+
+Malta >>> 525285.0
+
