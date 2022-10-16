@@ -35,7 +35,7 @@ def gen_color(grade, single_color):
     norm_grade = norm(grade)
     
     
-    interval = np.hstack([np.linspace(0, 0.4), np.linspace(0.6, 1)])
+    interval = np.hstack([np.linspace(0, 0.43), np.linspace(0.57, 1)])
     colors = plt.cm.bwr_r(interval)
     if single_color:
         interval = np.hstack([np.linspace(0.2, 1)])
