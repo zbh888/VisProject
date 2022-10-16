@@ -1,0 +1,80 @@
+United Kingdom >>> 59.34
+
+Denmark >>> 65.31
+
+United States of America >>> 49.88
+
+China >>> 31.04
+
+Germany >>> 53.33
+
+Brazil >>> 39.65
+
+Spain >>> 47.0
+
+Canada >>> 59.03
+
+Switzerland >>> 75.71
+
+Singapore >>> 69.64
+
+Austria >>> 54.75
+
+Netherlands >>> 58.35
+
+New Zealand >>> 61.81
+
+India >>> 26.37
+
+Japan >>> 22.08
+
+Italy >>> 48.26
+
+France >>> 48.64
+
+Luxembourg >>> 100.0
+
+Australia >>> 60.03
+
+Israel >>> 67.18
+
+Belgium >>> 62.48
+
+Portugal >>> 62.52
+
+Sweden >>> 47.89
+
+Qatar >>> 85.46
+
+Turkey >>> 20.57
+
+Taiwan >>> 19.65
+
+Finland >>> 55.12
+
+Greece >>> 66.31
+
+Romania >>> 38.38
+
+Iceland >>> 64.93
+
+Estonia >>> 91.05
+
+South Africa >>> 33.79
+
+Ireland >>> 45.03
+
+Norway >>> 44.62
+
+Hungary >>> 30.05
+
+Russia >>> 5.03
+
+Poland >>> 16.21
+
+Mexico >>> 14.35
+
+Iran >>> 53.5
+
+Malaysia >>> 46.53
+
